@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>w7dYIDLaBmqg5X62JLJAHooNcloi5j+aC49kS9LQWqo=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1847630_github_0.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 08:40:59</sys_created_on>
+        <sys_id>b35435cbc3110310087c32f1b4013117</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1847630_github_0.user</sys_name>
+        <sys_package display_value="GitHub Integration PDI" source="x_1847630_github_0">e754f1cbc3110310087c32f1b4013193</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Integration PDI">e754f1cbc3110310087c32f1b4013193</sys_scope>
+        <sys_update_name>sys_user_role_b35435cbc3110310087c32f1b4013117</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 08:40:59</sys_updated_on>
+    </sys_user_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="GitHub Integration PDI">e754f1cbc3110310087c32f1b4013193</application>
+        <file_path/>
+        <instance_id>3ccb8efc9324c7d4c4e8ddd548373c9b</instance_id>
+        <instance_name>dev392394</instance_name>
+        <name>sys_user_role_b35435cbc3110310087c32f1b4013117</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>w7dYIDLaBmqg5X62JLJAHooNcloi5j+aC49kS9LQWqo=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1847630_github_0.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 08:40:59</sys_created_on>
+        <sys_id>b35435cbc3110310087c32f1b4013117</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1847630_github_0.user</sys_name>
+        <sys_package display_value="GitHub Integration PDI" source="x_1847630_github_0">e754f1cbc3110310087c32f1b4013193</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Integration PDI">e754f1cbc3110310087c32f1b4013193</sys_scope>
+        <sys_update_name>sys_user_role_b35435cbc3110310087c32f1b4013117</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 08:40:59</sys_updated_on>
+    </sys_user_role>
+</record_update>]]></payload>
+        <payload_hash>-456904488</payload_hash>
+        <record_name>x_1847630_github_0.user</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 11:51:08</sys_created_on>
+        <sys_id>5def9e83c3950310087c32f1b40131a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19eb15f3b6a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 11:51:08</sys_updated_on>
+        <type>Role</type>
+        <update_guid>1def9e830995031028ac858bdf97d9a8</update_guid>
+        <update_guid_history>ea5f5e43b7950310e6ebcdc43a2cfef3:666737126,7b5435cb82110310bbf903e28df10427:1757618916</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1847630_github_0.user">8900ee83c3950310087c32f1b40131df</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-10 11:51:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>2f4e5390372b402289eee5441e781a24</sys_id>
+        <sys_metadata>b35435cbc3110310087c32f1b4013117</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1847630_github_0.user</sys_name>
+        <sys_package display_value="GitHub Integration PDI" source="x_1847630_github_0">e754f1cbc3110310087c32f1b4013193</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="GitHub Integration PDI">e754f1cbc3110310087c32f1b4013193</sys_scope>
+        <sys_scope_delete display_value="">888ae4dc13db4c1c9034428e9a3ddc10</sys_scope_delete>
+        <sys_update_name>sys_user_role_b35435cbc3110310087c32f1b4013117</sys_update_name>
+        <sys_update_version display_value="sys_user_role_b35435cbc3110310087c32f1b4013117">5def9e83c3950310087c32f1b40131a8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-10 11:51:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
