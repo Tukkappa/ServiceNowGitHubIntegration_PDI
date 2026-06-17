@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-06-15 13:07:48">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Contracts Core">20828c06976d2510517c7d371153af75</application>
+<application_name>Contracts Core</application_name>
+<application_scope>sn_cm_core</application_scope>
+<application_version>3.1.3</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>default - Contracts Core</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>0cc1bfd13b30439875e10964c3e45ae1</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:07:47</sys_created_on>
+<sys_id>3861247ceba10f108deef07fbad0cdfe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:07:47</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Contracts Core">20828c06976d2510517c7d371153af75</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_9e914242eb38c3d48deef07fbad0cd43</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>requested</rca_type><source>NULL</source><source_scope display_value="Contracts Core">20828c06976d2510517c7d371153af75</source_scope><source_table/><source_type>5</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>kburi</sys_created_by><sys_created_on>2026-05-13 10:38:54</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>9e914242eb38c3d48deef07fbad0cd43</sys_id><sys_mod_count>1</sys_mod_count><sys_name>27b568be53b11010d4f9ddeeff7b12c5</sys_name><sys_package display_value="Contracts Core" source="sn_cm_core">20828c06976d2510517c7d371153af75</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contracts Core">20828c06976d2510517c7d371153af75</sys_scope><sys_update_name>sys_restricted_caller_access_9e914242eb38c3d48deef07fbad0cd43</sys_update_name><sys_updated_by>kburi</sys_updated_by><sys_updated_on>2026-05-13 10:58:51</sys_updated_on><target/><target_scope display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</target_scope><target_table>sys_db_object</target_table><target_type>1</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>1511715456</payload_hash>
+<remote_update_set display_value="default - Contracts Core">3861247ceba10f108deef07fbad0cdfe</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:07:48</sys_created_on>
+<sys_id>3061a0fceba10f108deef07fbad0cd4d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e20fd4b430000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:07:48</sys_updated_on>
+<table/>
+<target_name>27b568be53b11010d4f9ddeeff7b12c5</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>5267460af378c3d4bdcad343ef6f751a</update_guid>
+<update_guid_history>5267460af378c3d4bdcad343ef6f751a:1511715456,8ed24646f538c3d49945f6b8016bfa6b:1406500755</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Contract Workspace">1803d03a37023110da6cdf3c24924bab</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_2191e4033b0dc71075e10964c3e45a9c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>real_rca</rca_type><source>76c089239fd000103f50947f842e7088</source><source_scope display_value="Global">global</source_scope><source_table>sys_security_acl</source_table><source_type>11</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>kburi</sys_created_by><sys_created_on>2026-05-28 16:23:35</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>2191e4033b0dc71075e10964c3e45a9c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1803d03a37023110da6cdf3c24924bab</sys_name><sys_package display_value="Contract Workspace" source="sn_cm_workspace">1803d03a37023110da6cdf3c24924bab</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contract Workspace">1803d03a37023110da6cdf3c24924bab</sys_scope><sys_update_name>sys_restricted_caller_access_2191e4033b0dc71075e10964c3e45a9c</sys_update_name><sys_updated_by>kburi</sys_updated_by><sys_updated_on>2026-05-28 16:23:35</sys_updated_on><target/><target_scope display_value="Contract Workspace">1803d03a37023110da6cdf3c24924bab</target_scope><target_table>sys_scope</target_table><target_type>3</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>1794168656</payload_hash>
+<remote_update_set display_value="default - Contracts Core">3861247ceba10f108deef07fbad0cdfe</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:07:48</sys_created_on>
+<sys_id>7061a0fceba10f108deef07fbad0cd4c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e6f65fe370000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:07:48</sys_updated_on>
+<table/>
+<target_name>1803d03a37023110da6cdf3c24924bab</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>ad91e403060dc71031bdab1a8975a9ad</update_guid>
+<update_guid_history>ad91e403060dc71031bdab1a8975a9ad:1794168656</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Contracts Core">20828c06976d2510517c7d371153af75</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_05243f5d3b30439875e10964c3e45a00</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description>Added for Contract Creation in SOM</description><operation>read</operation><rca_type>real_rca</rca_type><source/><source_scope display_value="Global">global</source_scope><source_table/><source_type>5</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>kburi</sys_created_by><sys_created_on>2026-05-11 11:00:36</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>05243f5d3b30439875e10964c3e45a00</sys_id><sys_mod_count>0</sys_mod_count><sys_name>20828c06976d2510517c7d371153af75</sys_name><sys_package display_value="Contracts Core" source="sn_cm_core">20828c06976d2510517c7d371153af75</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contracts Core">20828c06976d2510517c7d371153af75</sys_scope><sys_update_name>sys_restricted_caller_access_05243f5d3b30439875e10964c3e45a00</sys_update_name><sys_updated_by>kburi</sys_updated_by><sys_updated_on>2026-05-11 11:00:36</sys_updated_on><target/><target_scope display_value="Contracts Core">20828c06976d2510517c7d371153af75</target_scope><target_table>sys_db_object</target_table><target_type>1</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>-684731269</payload_hash>
+<remote_update_set display_value="default - Contracts Core">3861247ceba10f108deef07fbad0cdfe</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:07:47</sys_created_on>
+<sys_id>b061247ceba10f108deef07fbad0cdff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e16b22db70000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:07:47</sys_updated_on>
+<table/>
+<target_name>20828c06976d2510517c7d371153af75</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>e0a4ffddb7304398b641d57ab96b684b</update_guid>
+<update_guid_history>e0a4ffddb7304398b641d57ab96b684b:-684731269</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Contract Workspace">1803d03a37023110da6cdf3c24924bab</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_2991e4033b0dc71075e10964c3e45ab7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>real_rca</rca_type><source>564316ae9f4333003f50947f842e70d2</source><source_scope display_value="Global">global</source_scope><source_table>sys_script</source_table><source_type>0</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>kburi</sys_created_by><sys_created_on>2026-05-28 16:23:35</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>2991e4033b0dc71075e10964c3e45ab7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1803d03a37023110da6cdf3c24924bab</sys_name><sys_package display_value="Contract Workspace" source="sn_cm_workspace">1803d03a37023110da6cdf3c24924bab</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contract Workspace">1803d03a37023110da6cdf3c24924bab</sys_scope><sys_update_name>sys_restricted_caller_access_2991e4033b0dc71075e10964c3e45ab7</sys_update_name><sys_updated_by>kburi</sys_updated_by><sys_updated_on>2026-05-28 16:23:35</sys_updated_on><target/><target_scope display_value="Contract Workspace">1803d03a37023110da6cdf3c24924bab</target_scope><target_table>sys_scope</target_table><target_type>3</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>-1811109425</payload_hash>
+<remote_update_set display_value="default - Contracts Core">3861247ceba10f108deef07fbad0cdfe</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:07:48</sys_created_on>
+<sys_id>b461a0fceba10f108deef07fbad0cd4c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e6f65fed30000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:07:48</sys_updated_on>
+<table/>
+<target_name>1803d03a37023110da6cdf3c24924bab</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>2591e4039e0dc710d205e518654751c6</update_guid>
+<update_guid_history>2591e4039e0dc710d205e518654751c6:-1811109425</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Contracts Core">20828c06976d2510517c7d371153af75</application>
+<category>customer</category>
+<comments/>
+<name>sys_restricted_caller_access_71b0b537eb6c8f148deef07fbad0cdf9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>read</operation><rca_type>real_rca</rca_type><source>6986d96dff7322102ae8ffffffffff48</source><source_scope display_value="Global">global</source_scope><source_table>sys_ws_operation</source_table><source_type>22</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-06 09:33:22</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>71b0b537eb6c8f148deef07fbad0cdf9</sys_id><sys_mod_count>1</sys_mod_count><sys_name>20828c06976d2510517c7d371153af75</sys_name><sys_package display_value="Contracts Core" source="sn_cm_core">20828c06976d2510517c7d371153af75</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Contracts Core">20828c06976d2510517c7d371153af75</sys_scope><sys_update_name>sys_restricted_caller_access_71b0b537eb6c8f148deef07fbad0cdf9</sys_update_name><sys_updated_by>calicea@deloitte.com</sys_updated_by><sys_updated_on>2026-05-15 15:31:03</sys_updated_on><target name="sn_cm_core_document_revision" target_table="sys_db_object">2ba83e733b3b365475e10964c3e45a4b</target><target_scope display_value="Contracts Core">20828c06976d2510517c7d371153af75</target_scope><target_table>sys_db_object</target_table><target_type>1</target_type></sys_restricted_caller_access></record_update>]]></payload>
+<payload_hash>1546418097</payload_hash>
+<remote_update_set display_value="default - Contracts Core">3861247ceba10f108deef07fbad0cdfe</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:07:48</sys_created_on>
+<sys_id>f861a0fceba10f108deef07fbad0cd4c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e2c4338c70000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:07:48</sys_updated_on>
+<table/>
+<target_name>20828c06976d2510517c7d371153af75</target_name>
+<type>Restricted Caller Access Privilege</type>
+<update_domain>global</update_domain>
+<update_guid>8de85936f8f00bd88a1df5489ec6a46a</update_guid>
+<update_guid_history>8de85936f8f00bd88a1df5489ec6a46a:1546418097,7db0f537586c8f14965522923c966b61:-1008875021</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
