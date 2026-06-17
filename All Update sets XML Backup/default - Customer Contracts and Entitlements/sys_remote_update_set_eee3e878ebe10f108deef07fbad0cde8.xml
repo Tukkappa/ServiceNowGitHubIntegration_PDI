@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-06-15 13:18:51">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<application_name>Customer Contracts and Entitlements</application_name>
+<application_scope>sn_pss_core</application_scope>
+<application_version>14.2.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>default - Customer Contracts and Entitlements</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>f21c675c3b30035875e10964c3e45a0d</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>eee3e878ebe10f108deef07fbad0cde8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sc_cat_item_producer_cc7ce7dc3b30035875e10964c3e45a47</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item_producer"&gt;&lt;sc_cat_item_producer action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;true&lt;/active&gt;&lt;allow_edit&gt;false&lt;/allow_edit&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;can_cancel&gt;false&lt;/can_cancel&gt;&lt;category/&gt;&lt;cc_render_type/&gt;&lt;checked_out/&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan/&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description/&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;fulfillment_automation_level&gt;unspecified&lt;/fulfillment_automation_level&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;location/&gt;&lt;make_item_non_conversational&gt;false&lt;/make_item_non_conversational&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Customer Contract Creation&lt;/name&gt;&lt;no_attachment_v2&gt;true&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_save_as_draft&gt;false&lt;/no_save_as_draft&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner display_value="Rimmi Kumari"&gt;6ad1752aebb732d08deef07fbad0cdd0&lt;/owner&gt;&lt;picture/&gt;&lt;post_insert_script/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=cc7ce7dc3b30035875e10964c3e45a47&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;published_ref/&gt;&lt;recurring_frequency/&gt;&lt;redirect_url&gt;generated_record&lt;/redirect_url&gt;&lt;request_method/&gt;&lt;roles/&gt;&lt;save_options/&gt;&lt;save_script&gt;&lt;![CDATA[/**
+* This script is executed at every step save in Catalog Builder. 
+* This script is executed before `Script` is executed.
+* `current` Is the GlideRecord produced by Record Producer. 
+* To access the variables, use `producer.var1` where var1 is the name of the variable
+* To access the Record Producer use `cat_item`
+*/]]&gt;&lt;/save_script&gt;&lt;sc_catalogs/&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template/&gt;&lt;script/&gt;&lt;short_description/&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state/&gt;&lt;sys_class_name&gt;sc_cat_item_producer&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-08 07:51:59&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;cc7ce7dc3b30035875e10964c3e45a47&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Customer Contract Creation&lt;/sys_name&gt;&lt;sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Customer Contracts and Entitlements"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_producer_cc7ce7dc3b30035875e10964c3e45a47&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-08 08:00:46&lt;/sys_updated_on&gt;&lt;table_name&gt;sn_pss_core_service_contract&lt;/table_name&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;turn_off_nowassist_conversation&gt;false&lt;/turn_off_nowassist_conversation&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;version&gt;5&lt;/version&gt;&lt;view/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item_producer&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=cc7ce7dc3b30035875e10964c3e45a47"/&gt;&lt;fx_price action="delete_multiple" query="id=cc7ce7dc3b30035875e10964c3e45a47"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;cc7ce7dc3b30035875e10964c3e45a47&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-08 07:52:00&lt;/sys_created_on&gt;&lt;sys_id&gt;64bcef103b70035875e10964c3e45a65&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-08 07:52:00&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;&lt;id&gt;cc7ce7dc3b30035875e10964c3e45a47&lt;/id&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-08 07:51:59&lt;/sys_created_on&gt;&lt;sys_id&gt;18bcebdc3b30035875e10964c3e45a8f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-08 07:51:59&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item_producer&lt;/table&gt;&lt;use_es_latest&gt;true&lt;/use_es_latest&gt;&lt;/sys_es_latest_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-333002723</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>26e3e878ebe10f108deef07fbad0cdea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e069a74fc0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_service_contract</table>
+<target_name>Customer Contract Creation</target_name>
+<type>Record Producer</type>
+<update_domain>global</update_domain>
+<update_guid>c1bee350d7b0035849c573db532f8183</update_guid>
+<update_guid_history>c1bee350d7b0035849c573db532f8183:-333002723,196e279ca6700358dde3500631f8988d:702279678,302eab1c53700358d7bfac8e18f7cdd9:1737562079,8bbde758a97003580b911e495f58ea26:-1522122816,70bcef100d7003588744c4cb927236ef:-486840415,e4bcef107a7003584f91a78f1e01e5fb:1033730569</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sn_pss_core_bulk_lead_import_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" table="sn_pss_core_bulk_lead_import"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;sn_pss_core_bulk_lead_import&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;saanjain&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-13 07:14:18&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;41041d0e3bb0cb9875e10964c3e45a69&lt;/sys_id&gt;&lt;sys_name&gt;sn_pss_core_bulk_lead_import&lt;/sys_name&gt;&lt;sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Customer Contracts and Entitlements"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_sn_pss_core_bulk_lead_import_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;saanjain&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-13 07:14:18&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;u_alignment_rationale/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1992392465</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>2ae3e878ebe10f108deef07fbad0cdeb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fbf630000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Import</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>6d045d0e11b0cb988dcf205567e824ce</update_guid>
+<update_guid_history>6d045d0e11b0cb988dcf205567e824ce:1992392465</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_sn_pss_core_bulk_lead_import_u_company_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_company" label="Company" language="en" table="sn_pss_core_bulk_lead_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_company</element><help/><hint/><label>Company</label><language>en</language><name>sn_pss_core_bulk_lead_import</name><plural>Companies</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:28:13</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>b4371d8a3bf0cb9875e10964c3e45a85</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Company</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_documentation_sn_pss_core_bulk_lead_import_u_company_en</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:28:13</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1009701078</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>32e3e878ebe10f108deef07fbad0cdee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e203c74f30000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Import.Company</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>c1371d8addf0cb98201664bc25c73694</update_guid>
+<update_guid_history>c1371d8addf0cb98201664bc25c73694:1009701078</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_application_f404990e3bb0cb9875e10964c3e45a92</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Bulk Lead Import</name><order/><roles>sn_pss_core.bulk_lead_import_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:16</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path/><sys_id>f404990e3bb0cb9875e10964c3e45a92</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Bulk Lead Import</sys_name><sys_overrides/><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_ui_application_f404990e3bb0cb9875e10964c3e45a92</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:16</sys_updated_on></sys_ui_application></record_update>]]></payload>
+<payload_hash>-1566575229</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>32e3e878ebe10f108deef07fbad0cdf3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fb1f70000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table/>
+<target_name>Bulk Lead Import</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>f004990ee7b0cb988590010cd1bdd796</update_guid>
+<update_guid_history>f004990ee7b0cb988590010cd1bdd796:-1566575229</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_module_3004990e3bb0cb9875e10964c3e45ad7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Bulk Lead Import">f404990e3bb0cb9875e10964c3e45a92</application><filter/><name>Bulk Lead Imports</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>sn_pss_core.bulk_lead_import_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:17</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path/><sys_id>3004990e3bb0cb9875e10964c3e45ad7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Bulk Lead Imports</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_ui_module_3004990e3bb0cb9875e10964c3e45ad7</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:17</sys_updated_on><table>sn_pss_core_bulk_lead_import</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+<payload_hash>955976617</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>36e36c78ebe10f108deef07fbad0cd2a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fb2590000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Imports</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>7804990e3cb0cb986e9175312462f4db</update_guid>
+<update_guid_history>7804990e3cb0cb986e9175312462f4db:955976617</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_sn_pss_core_bulk_lead_import_u_phone_number_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_phone_number" label="Phone Number" language="en" table="sn_pss_core_bulk_lead_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_phone_number</element><help/><hint/><label>Phone Number</label><language>en</language><name>sn_pss_core_bulk_lead_import</name><plural>Phone Numbers</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:28:53</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>b25799ca3bf0cb9875e10964c3e45a88</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Phone Number</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_documentation_sn_pss_core_bulk_lead_import_u_phone_number_en</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:28:53</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-780232075</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>36e3e878ebe10f108deef07fbad0cdef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e203d144e0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Import.Phone Number</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>3a5799ca79f0cb981fd9571674d7a9fa</update_guid>
+<update_guid_history>3a5799ca79f0cb981fd9571674d7a9fa:-780232075</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_3804d90e3bb0cb9875e10964c3e45a76</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on sn_pss_core_bulk_lead_import</description><local_or_existing>Existing</local_or_existing><name>sn_pss_core_bulk_lead_import</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:17</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>3804d90e3bb0cb9875e10964c3e45a76</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_pss_core_bulk_lead_import</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_security_acl_3804d90e3bb0cb9875e10964c3e45a76</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:17</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-914103047</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>3ae3e878ebe10f108deef07fbad0cdf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fb5480000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>sn_pss_core_bulk_lead_import</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>8d04d90e35b0cb98cf059f1edeeb6baa</update_guid>
+<update_guid_history>8d04d90e35b0cb98cf059f1edeeb6baa:-914103047</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sn_pss_core_bulk_lead_import_u_last_name</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_last_name" table="sn_pss_core_bulk_lead_import"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Last Name&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_last_name&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;50&lt;/max_length&gt;&lt;name&gt;sn_pss_core_bulk_lead_import&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;saanjain&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-13 07:26:05&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;b4a6110a3bf0cb9875e10964c3e45a57&lt;/sys_id&gt;&lt;sys_name&gt;Last Name&lt;/sys_name&gt;&lt;sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Customer Contracts and Entitlements"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_sn_pss_core_bulk_lead_import_u_last_name&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;saanjain&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-13 07:26:05&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;u_alignment_rationale/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1147044839</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>3ee3e878ebe10f108deef07fbad0cdec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e203a83f20000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Import.Last Name</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>b9b6550a00f0cb98439947bd072424a5</update_guid>
+<update_guid_history>b9b6550a00f0cb98439947bd072424a5:-1147044839</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_4d04d90e3bb0cb9875e10964c3e45af1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:18</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>4d04d90e3bb0cb9875e10964c3e45af1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_pss_core_bulk_lead_import.sn_pss_core.bulk_lead_import_user</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_security_acl display_value="sn_pss_core_bulk_lead_import">8504d90e3bb0cb9875e10964c3e45ac7</sys_security_acl><sys_update_name>sys_security_acl_role_4d04d90e3bb0cb9875e10964c3e45af1</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:18</sys_updated_on><sys_user_role display_value="sn_pss_core.bulk_lead_import_user" name="sn_pss_core.bulk_lead_import_user">9ae39dca3bb0cb9875e10964c3e45a5c</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1119977318</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>3ee3e878ebe10f108deef07fbad0cdf1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fb73c0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>sn_pss_core_bulk_lead_import.sn_pss_core.bulk_lead_import_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>01041d0e01b0cb984d3f265fb6c5a722</update_guid>
+<update_guid_history>01041d0e01b0cb984d3f265fb6c5a722:1119977318</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_034e6b5c3b70035875e10964c3e45a51</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Customer Contract Creation"&gt;cc7ce7dc3b30035875e10964c3e45a47&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field&gt;ends&lt;/field&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;true&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;ends&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order/&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;End Date&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table&gt;sn_pss_core_service_contract&lt;/record_producer_table&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated 
+ * `current`- GlideRecord produced by Record Producer
+ * Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+ * Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+ * Avoid `current.setAbortAction()` and generate a separate record
+ * Use `producer.var1` to access variables
+ */]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-08 07:59:25&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;034e6b5c3b70035875e10964c3e45a51&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;End Date&lt;/sys_name&gt;&lt;sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Customer Contracts and Entitlements"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_034e6b5c3b70035875e10964c3e45a51&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-08 07:59:25&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;6&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=034e6b5c3b70035875e10964c3e45a51"/&gt;&lt;fx_price action="delete_multiple" query="id=034e6b5c3b70035875e10964c3e45a51"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;034e6b5c3b70035875e10964c3e45a51&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-08 07:59:25&lt;/sys_created_on&gt;&lt;sys_id&gt;d16e279c3b70035875e10964c3e45a91&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-08 07:59:25&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;034e6b5c3b70035875e10964c3e45a51&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-08 07:59:25&lt;/sys_created_on&gt;&lt;sys_id&gt;196e279c3b70035875e10964c3e45a90&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-08 07:59:25&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-480097445</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>66e3e878ebe10f108deef07fbad0cde9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e06993b260000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table/>
+<target_name>End Date</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>196e279c23700358d44d8a294f574aa1</update_guid>
+<update_guid_history>196e279c23700358d44d8a294f574aa1:-480097445</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_6004990e3bb0cb9875e10964c3e45a29</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Bulk Lead Import</name><order>100</order><roles>sn_pss_core.bulk_lead_import_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:16</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path/><sys_id>6004990e3bb0cb9875e10964c3e45a29</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Bulk Lead Import</sys_name><sys_overrides/><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_app_application_6004990e3bb0cb9875e10964c3e45a29</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:16</sys_updated_on><title>Bulk Lead Import</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>623700670</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>6ae3e878ebe10f108deef07fbad0cdea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fb06b0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table/>
+<target_name>Bulk Lead Import</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>6004990e6cb0cb982a11103e0973c42f</update_guid>
+<update_guid_history>6004990e6cb0cb982a11103e0973c42f:623700670</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sn_pss_core_bulk_lead_import_u_company</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_company" table="sn_pss_core_bulk_lead_import"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Company&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_company&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;100&lt;/max_length&gt;&lt;name&gt;sn_pss_core_bulk_lead_import&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;saanjain&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-13 07:28:13&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;8827d58a3bf0cb9875e10964c3e45ae7&lt;/sys_id&gt;&lt;sys_name&gt;Company&lt;/sys_name&gt;&lt;sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Customer Contracts and Entitlements"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_sn_pss_core_bulk_lead_import_u_company&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;saanjain&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-13 07:28:13&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;u_alignment_rationale/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1212883479</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>6ee3e878ebe10f108deef07fbad0cdeb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e203c74c00000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Import.Company</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>70371d8a4bf0cb98a0e1f77a92b81190</update_guid>
+<update_guid_history>70371d8a4bf0cb98a0e1f77a92b81190:-1212883479</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sn_pss_core_bulk_lead_import_u_phone_number</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_phone_number" table="sn_pss_core_bulk_lead_import"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Phone Number&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_phone_number&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;15&lt;/max_length&gt;&lt;name&gt;sn_pss_core_bulk_lead_import&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;saanjain&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-13 07:28:53&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;604791ca3bf0cb9875e10964c3e45a62&lt;/sys_id&gt;&lt;sys_name&gt;Phone Number&lt;/sys_name&gt;&lt;sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Customer Contracts and Entitlements"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_sn_pss_core_bulk_lead_import_u_phone_number&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;saanjain&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-13 07:28:53&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;u_alignment_rationale/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>924760628</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>72e3e878ebe10f108deef07fbad0cded</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e203d14200000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Import.Phone Number</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>765799ca50f0cb98dc8243d0c70aa6f6</update_guid>
+<update_guid_history>765799ca50f0cb98dc8243d0c70aa6f6:924760628</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_81041d0e3bb0cb9875e10964c3e45a4f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:18</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>81041d0e3bb0cb9875e10964c3e45a4f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_pss_core_bulk_lead_import.sn_pss_core.bulk_lead_import_user</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_security_acl display_value="sn_pss_core_bulk_lead_import">81041d0e3bb0cb9875e10964c3e45a31</sys_security_acl><sys_update_name>sys_security_acl_role_81041d0e3bb0cb9875e10964c3e45a4f</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:18</sys_updated_on><sys_user_role display_value="sn_pss_core.bulk_lead_import_user" name="sn_pss_core.bulk_lead_import_user">9ae39dca3bb0cb9875e10964c3e45a5c</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1265574846</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>72e3e878ebe10f108deef07fbad0cdf2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fb8450000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>sn_pss_core_bulk_lead_import.sn_pss_core.bulk_lead_import_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>c5041d0e22b0cb9891a6a610c13c4166</update_guid>
+<update_guid_history>c5041d0e22b0cb9891a6a610c13c4166:-1265574846</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_sn_pss_core_bulk_lead_import_u_email_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_email" label="Email" language="en" table="sn_pss_core_bulk_lead_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_email</element><help/><hint/><label>Email</label><language>en</language><name>sn_pss_core_bulk_lead_import</name><plural>Emails</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:27:30</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>5a075d4a3bf0cb9875e10964c3e45a0d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Email</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_documentation_sn_pss_core_bulk_lead_import_u_email_en</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:27:30</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>270311285</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>76e3e878ebe10f108deef07fbad0cdee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e203bcd8d0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Import.Email</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>aa07dd4afbf0cb981aeb9fb2039cb5bd</update_guid>
+<update_guid_history>aa07dd4afbf0cb981aeb9fb2039cb5bd:270311285</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_0df5ce09778211108b419cfb3c5a9906</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="0df5ce09778211108b419cfb3c5a9906" sys_domain="global" table="sn_pss_core_service_contract" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 08:01:50</sys_created_on><sys_id>28fe2f903bb0035875e10964c3e45a9b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="Default view">0df5ce09778211108b419cfb3c5a9906</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 08:01:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>vendor_contract</element><position>1</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 08:01:50</sys_created_on><sys_id>a4fe2f903bb0035875e10964c3e45a9c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="Default view">0df5ce09778211108b419cfb3c5a9906</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 08:01:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>account</element><position>2</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 08:01:50</sys_created_on><sys_id>24fe2f903bb0035875e10964c3e45a9d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="Default view">0df5ce09778211108b419cfb3c5a9906</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 08:01:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>consumer</element><position>3</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 08:01:50</sys_created_on><sys_id>a0fe2f903bb0035875e10964c3e45a9e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="Default view">0df5ce09778211108b419cfb3c5a9906</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 08:01:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 08:01:50</sys_created_on><sys_id>20fe2f903bb0035875e10964c3e45a9f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="Default view">0df5ce09778211108b419cfb3c5a9906</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 08:01:50</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>5</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 08:01:50</sys_created_on><sys_id>acfe2f903bb0035875e10964c3e45a9f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="Default view">0df5ce09778211108b419cfb3c5a9906</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 08:01:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>6</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 08:01:50</sys_created_on><sys_id>2cfe2f903bb0035875e10964c3e45aa0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="Default view">0df5ce09778211108b419cfb3c5a9906</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 08:01:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>starts</element><position>7</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 08:01:50</sys_created_on><sys_id>a8fe2f903bb0035875e10964c3e45aa1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="Default view">0df5ce09778211108b419cfb3c5a9906</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 08:01:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>ends</element><position>8</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 08:01:50</sys_created_on><sys_id>28fe2f903bb0035875e10964c3e45aa2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="Default view">0df5ce09778211108b419cfb3c5a9906</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 08:01:50</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sn_pss_core_service_contract</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>abel.tuter</sys_created_by><sys_created_on>2022-09-18 14:18:58</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0df5ce09778211108b419cfb3c5a9906</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_pss_core_service_contract</sys_name><sys_overrides/><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_ui_section_0df5ce09778211108b419cfb3c5a9906</sys_update_name><sys_updated_by>abel.tuter</sys_updated_by><sys_updated_on>2022-09-18 14:18:58</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1544393523</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>7ae36c78ebe10f108deef07fbad0cd2a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e069b6f850000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_service_contract</table>
+<target_name>Customer Contract</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>a0fe2f90afb003588eae44b432fdbfa6</update_guid>
+<update_guid_history>a0fe2f90afb003588eae44b432fdbfa6:1544393523,c3eeeb90d7b00358df5f56f8d99a170d:1544393523,7a0e631c3d700358539056585559f135:-1284343989,9b7da7d46c7003586fa6c34d0d412f98:-1744503803,417d2f948f7003584d0a88b1615a75d3:1607220083,766d6f541870035864706ec354ced474:-2055400076</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_sn_pss_core_bulk_lead_import__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Bulk Lead Import" language="en" table="sn_pss_core_bulk_lead_import"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Bulk Lead Import</label><language>en</language><name>sn_pss_core_bulk_lead_import</name><plural>Bulk Lead Imports</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:19</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>5d041d0e3bb0cb9875e10964c3e45ad8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Bulk Lead Import</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_documentation_sn_pss_core_bulk_lead_import__en</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:19</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-992487107</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>7ae3e878ebe10f108deef07fbad0cdef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fbf8c0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Import</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>e9045d0ee8b0cb982b6b1997fbcef6d2</update_guid>
+<update_guid_history>e9045d0ee8b0cb982b6b1997fbcef6d2:-992487107</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_81041d0e3bb0cb9875e10964c3e45a31</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on sn_pss_core_bulk_lead_import</description><local_or_existing>Existing</local_or_existing><name>sn_pss_core_bulk_lead_import</name><operation display_value="delete">delete</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:18</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>81041d0e3bb0cb9875e10964c3e45a31</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_pss_core_bulk_lead_import</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_security_acl_81041d0e3bb0cb9875e10964c3e45a31</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:18</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1900463503</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>7ee3e878ebe10f108deef07fbad0cdf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fb7db0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>sn_pss_core_bulk_lead_import</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>89041d0e4fb0cb98efdd27648b134c4c</update_guid>
+<update_guid_history>89041d0e4fb0cb98efdd27648b134c4c:1900463503</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sn_pss_core_bulk_lead_import_u_email</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_email" table="sn_pss_core_bulk_lead_import"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Email&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_email&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;100&lt;/max_length&gt;&lt;name&gt;sn_pss_core_bulk_lead_import&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;saanjain&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-13 07:27:30&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;60e6914a3bf0cb9875e10964c3e45a39&lt;/sys_id&gt;&lt;sys_name&gt;Email&lt;/sys_name&gt;&lt;sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Customer Contracts and Entitlements"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_sn_pss_core_bulk_lead_import_u_email&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;saanjain&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-13 07:27:30&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;u_alignment_rationale/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1454148277</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>a2e3e878ebe10f108deef07fbad0cdec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e203bcd5e0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Import.Email</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>a607dd4a3bf0cb98e25751e68e64a6b9</update_guid>
+<update_guid_history>a607dd4a3bf0cb98e25751e68e64a6b9:-1454148277</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_148d6bd43b70035875e10964c3e45a8c</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Customer Contract Creation"&gt;cc7ce7dc3b30035875e10964c3e45a47&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field&gt;starts&lt;/field&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;true&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;starts&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order/&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Start Date&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table&gt;sn_pss_core_service_contract&lt;/record_producer_table&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated 
+ * `current`- GlideRecord produced by Record Producer
+ * Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+ * Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+ * Avoid `current.setAbortAction()` and generate a separate record
+ * Use `producer.var1` to access variables
+ */]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-08 07:56:32&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;148d6bd43b70035875e10964c3e45a8c&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Start Date&lt;/sys_name&gt;&lt;sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Customer Contracts and Entitlements"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_148d6bd43b70035875e10964c3e45a8c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-08 07:58:18&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;10&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=148d6bd43b70035875e10964c3e45a8c"/&gt;&lt;fx_price action="delete_multiple" query="id=148d6bd43b70035875e10964c3e45a8c"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;148d6bd43b70035875e10964c3e45a8c&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-08 07:56:32&lt;/sys_created_on&gt;&lt;sys_id&gt;0bbde7583b70035875e10964c3e45a2b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-08 07:56:32&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;148d6bd43b70035875e10964c3e45a8c&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-08 07:56:32&lt;/sys_created_on&gt;&lt;sys_id&gt;8bbde7583b70035875e10964c3e45a29&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-08 07:56:32&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1584528180</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>aae3e878ebe10f108deef07fbad0cde9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e069834f10000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table/>
+<target_name>Start Date</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>092eab1cd0700358be1b3584e59395de</update_guid>
+<update_guid_history>092eab1cd0700358be1b3584e59395de:1584528180,87bde7580b700358f1ef6de29028f048:-1866859628</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_ec04990e3bb0cb9875e10964c3e45a31</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Bulk Lead Import">6004990e3bb0cb9875e10964c3e45a29</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Bulk Lead Imports</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sn_pss_core_bulk_lead_import</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>sn_pss_core.bulk_lead_import_user</roles><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:16</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path/><sys_id>ec04990e3bb0cb9875e10964c3e45a31</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Bulk Lead Imports</sys_name><sys_overrides/><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_app_module_ec04990e3bb0cb9875e10964c3e45a31</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:16</sys_updated_on><timeline_page/><title>Bulk Lead Imports</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-779930335</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>aee3e878ebe10f108deef07fbad0cdea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fb0f80000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Imports</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>3804990e7cb0cb98df8f55c5973b5f8f</update_guid>
+<update_guid_history>3804990e7cb0cb98df8f55c5973b5f8f:-779930335</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_8504d90e3bb0cb9875e10964c3e45ac7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on sn_pss_core_bulk_lead_import</description><local_or_existing>Existing</local_or_existing><name>sn_pss_core_bulk_lead_import</name><operation display_value="write">write</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:18</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>8504d90e3bb0cb9875e10964c3e45ac7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_pss_core_bulk_lead_import</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_security_acl_8504d90e3bb0cb9875e10964c3e45ac7</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:18</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1691398013</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>b2e3e878ebe10f108deef07fbad0cdf1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fb6ce0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>sn_pss_core_bulk_lead_import</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>4504d90e6eb0cb98da611de386aa52ef</update_guid>
+<update_guid_history>4504d90e6eb0cb98da611de386aa52ef:1691398013</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sn_pss_core_service_contract_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" extends="ast_contract" table="sn_pss_core_service_contract"><active>true</active><array>false</array><attributes/><audit>true</audit><calculation/><choice>1</choice><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>sn_pss_core_service_contract</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>vanshagrawal</sys_created_by><sys_created_on>2026-03-27 06:18:17</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>52748bf23bfbfed075e10964c3e45a61</sys_id><sys_name>sn_pss_core_service_contract</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_dictionary_sn_pss_core_service_contract_null</sys_update_name><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:55:17</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><u_alignment_rationale/><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-2084067724</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>b6e3e878ebe10f108deef07fbad0cded</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e069573900000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_service_contract</table>
+<target_name>Customer Contract</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>7c7deb944c7003589286b98bb860f490</update_guid>
+<update_guid_history>7c7deb944c7003589286b98bb860f490:-2084067724,647dab9447700358154f6fbcbb9167f1:1090866667</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_8504d90e3bb0cb9875e10964c3e45aad</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:18</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>8504d90e3bb0cb9875e10964c3e45aad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_pss_core_bulk_lead_import.sn_pss_core.bulk_lead_import_user</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_security_acl display_value="sn_pss_core_bulk_lead_import">3804d90e3bb0cb9875e10964c3e45a76</sys_security_acl><sys_update_name>sys_security_acl_role_8504d90e3bb0cb9875e10964c3e45aad</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:18</sys_updated_on><sys_user_role display_value="sn_pss_core.bulk_lead_import_user" name="sn_pss_core.bulk_lead_import_user">9ae39dca3bb0cb9875e10964c3e45a5c</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1843072307</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>b6e3e878ebe10f108deef07fbad0cdf2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fb61a0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>sn_pss_core_bulk_lead_import.sn_pss_core.bulk_lead_import_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>c904d90e8cb0cb988a00203cf0eec0c4</update_guid>
+<update_guid_history>c904d90e8cb0cb988a00203cf0eec0c4:1843072307</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_sn_pss_core_bulk_lead_import_u_first_name_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_first_name" label="First Name" language="en" table="sn_pss_core_bulk_lead_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_first_name</element><help/><hint/><label>First Name</label><language>en</language><name>sn_pss_core_bulk_lead_import</name><plural>First Names</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:23:14</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>f70615c23bf0cb9875e10964c3e45a1b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>First Name</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_documentation_sn_pss_core_bulk_lead_import_u_first_name_en</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:23:14</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>999374773</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>bae3e878ebe10f108deef07fbad0cdee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e2037e65a0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Import.First Name</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>801615469bf0cb9816bf53c02dc08ad2</update_guid>
+<update_guid_history>801615469bf0cb9816bf53c02dc08ad2:999374773</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_6c760cf043921210646589a94bb8f25e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="6c760cf043921210646589a94bb8f25e" sys_domain="global" table="sn_pss_core_service_contract" version="3" view="service_contract_workspace_view"><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>0</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>712da3143b70035875e10964c3e45a3f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>vendor_contract</element><position>1</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>fd2da3143b70035875e10964c3e45a3f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>account</element><position>2</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>7d2da3143b70035875e10964c3e45a40</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>consumer</element><position>3</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>f92da3143b70035875e10964c3e45a41</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>renewal_root</element><position>4</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>4a2da3143b70035875e10964c3e45a42</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>renewed_from</element><position>5</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>c62da3143b70035875e10964c3e45a43</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>total_contract_value</element><position>6</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>462da3143b70035875e10964c3e45a44</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>7</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>c22da3143b70035875e10964c3e45a45</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>8</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>422da3143b70035875e10964c3e45a46</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>9</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>ce2da3143b70035875e10964c3e45a46</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>starts</element><position>10</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>4e2da3143b70035875e10964c3e45a47</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>ends</element><position>11</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>ca2da3143b70035875e10964c3e45a48</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>consolidated_contract</element><position>12</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>4a2da3143b70035875e10964c3e45a49</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>auto_renewal_date</element><position>13</position><sys_created_by>rimkumari</sys_created_by><sys_created_on>2026-05-08 07:54:00</sys_created_on><sys_id>c62da3143b70035875e10964c3e45a4a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sn_pss_core_service_contract" sys_domain="global" view="be9504b043921210646589a94bb8f29e">6c760cf043921210646589a94bb8f25e</sys_ui_section><sys_updated_by>rimkumari</sys_updated_by><sys_updated_on>2026-05-08 07:54:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sn_pss_core_service_contract</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-03 05:23:42</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6c760cf043921210646589a94bb8f25e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>sn_pss_core_service_contract</sys_name><sys_overrides/><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_ui_section_6c760cf043921210646589a94bb8f25e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-19 11:12:23</sys_updated_on><sys_user/><title>false</title><view display_value="Customer contract workspace" name="service_contract_workspace_view">be9504b043921210646589a94bb8f29e</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>-940616978</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>bee36c78ebe10f108deef07fbad0cd2a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e0694458f0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_service_contract</table>
+<target_name>Customer Contract</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>822da314c57003580a609b2599a87b5b</update_guid>
+<update_guid_history>822da314c57003580a609b2599a87b5b:-940616978,e41de7d0ad700358f0bfea8bd6b999ef:-940616978</update_guid_history>
+<update_set display_value=""/>
+<view>service_contract_workspace_view</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_sn_pss_core_service_contract_u_check_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_check" label="check" language="en" table="sn_pss_core_service_contract"><sys_documentation action="INSERT_OR_UPDATE"><element>u_check</element><help/><hint/><label>check</label><language>en</language><name>sn_pss_core_service_contract</name><plural/><sys_class_name>sys_documentation</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-11 12:38:16</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>93fac8213b38439875e10964c3e45a27</sys_id><sys_mod_count>3</sys_mod_count><sys_name>check</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_documentation_sn_pss_core_service_contract_u_check_en</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-11 12:38:17</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-1995100430</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>bee3e878ebe10f108deef07fbad0cdef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e170b9f660000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_service_contract</table>
+<target_name>Customer Contract.check</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>a3fac821dc384398395623b2020043b2</update_guid>
+<update_guid_history>a3fac821dc384398395623b2020043b2:-1995100430,e3fac82151384398eb21cc18fe4ac295:-1995100430,1bfac821db3843980e4c5b63373cd465:-706587677</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_d2a31d8a3bb0cb9875e10964c3e45a27</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><filter_extension/><is_df_table>false</is_df_table><is_extendable>false</is_extendable><label>Bulk Lead Import</label><live_feed_enabled>false</live_feed_enabled><name>sn_pss_core_bulk_lead_import</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:15</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>d2a31d8a3bb0cb9875e10964c3e45a27</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_pss_core_bulk_lead_import</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_db_object_d2a31d8a3bb0cb9875e10964c3e45a27</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:15</sys_updated_on><update_access>false</update_access><user_role display_value="sn_pss_core.bulk_lead_import_user" name="sn_pss_core.bulk_lead_import_user">9ae39dca3bb0cb9875e10964c3e45a5c</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-1516344087</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>e2e3e878ebe10f108deef07fbad0cdeb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fbfae0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>sn_pss_core_bulk_lead_import</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>25045d0e23b0cb98b9014ee63e69e8d6</update_guid>
+<update_guid_history>25045d0e23b0cb98b9014ee63e69e8d6:-1516344087</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sn_pss_core_bulk_lead_import_u_first_name</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_first_name" table="sn_pss_core_bulk_lead_import"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;First Name&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_first_name&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;50&lt;/max_length&gt;&lt;name&gt;sn_pss_core_bulk_lead_import&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;saanjain&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-13 07:23:14&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;377419ce3bb0cb9875e10964c3e45adc&lt;/sys_id&gt;&lt;sys_name&gt;First Name&lt;/sys_name&gt;&lt;sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Customer Contracts and Entitlements"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_sn_pss_core_bulk_lead_import_u_first_name&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;saanjain&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-13 07:23:14&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;u_alignment_rationale/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1644020885</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>e6e3e878ebe10f108deef07fbad0cdec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e2037e6070000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Import.First Name</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>00161546d0f0cb98ed2d1961e89e14c0</update_guid>
+<update_guid_history>00161546d0f0cb98ed2d1961e89e14c0:-1644020885</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>item_option_new_c07e2b9c3b70035875e10964c3e45ad4</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="item_option_new"&gt;&lt;item_option_new action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;attributes/&gt;&lt;cat_item display_value="Customer Contract Creation"&gt;cc7ce7dc3b30035875e10964c3e45a47&lt;/cat_item&gt;&lt;category/&gt;&lt;choice_direction&gt;down&lt;/choice_direction&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;conversational_label/&gt;&lt;create_roles/&gt;&lt;default_html_value/&gt;&lt;default_value/&gt;&lt;delete_roles/&gt;&lt;delivery_plan/&gt;&lt;description/&gt;&lt;disable_initial_slot_fill&gt;false&lt;/disable_initial_slot_fill&gt;&lt;display_title&gt;false&lt;/display_title&gt;&lt;do_not_select_first&gt;false&lt;/do_not_select_first&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;dynamic_value_dot_walk_path/&gt;&lt;dynamic_value_field/&gt;&lt;enable_also_request_for&gt;false&lt;/enable_also_request_for&gt;&lt;example_text/&gt;&lt;field&gt;short_description&lt;/field&gt;&lt;global&gt;false&lt;/global&gt;&lt;help_tag&gt;More information&lt;/help_tag&gt;&lt;help_text/&gt;&lt;hidden&gt;false&lt;/hidden&gt;&lt;include_none&gt;false&lt;/include_none&gt;&lt;instructions/&gt;&lt;layout&gt;normal&lt;/layout&gt;&lt;list_table/&gt;&lt;lookup_dependent_question/&gt;&lt;lookup_label/&gt;&lt;lookup_price/&gt;&lt;lookup_source/&gt;&lt;lookup_table/&gt;&lt;lookup_unique&gt;false&lt;/lookup_unique&gt;&lt;lookup_value/&gt;&lt;macro/&gt;&lt;macroponent/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;map_to_field&gt;true&lt;/map_to_field&gt;&lt;mask_use_confirmation&gt;false&lt;/mask_use_confirmation&gt;&lt;mask_use_encryption&gt;false&lt;/mask_use_encryption&gt;&lt;name&gt;short_description&lt;/name&gt;&lt;not_available_conversation&gt;false&lt;/not_available_conversation&gt;&lt;order/&gt;&lt;post_insert_script/&gt;&lt;price_if_checked&gt;0&lt;/price_if_checked&gt;&lt;pricing_implications&gt;false&lt;/pricing_implications&gt;&lt;published_ref/&gt;&lt;question_text&gt;Short Description&lt;/question_text&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;read_script/&gt;&lt;rec_lookup_price/&gt;&lt;rec_price_if_checked&gt;0&lt;/rec_price_if_checked&gt;&lt;record/&gt;&lt;record_producer_table&gt;sn_pss_core_service_contract&lt;/record_producer_table&gt;&lt;reference/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;rich_text/&gt;&lt;roles_to_use_also_request_for/&gt;&lt;save_script&gt;&lt;![CDATA[/** This script is executed before the Record is generated 
+ * `current`- GlideRecord produced by Record Producer
+ * Don't use `current.update()` or `current.insert()` as the record is generated by Record Producer
+ * Don't use `current.setValue('sys_class_name', 'xxx')` as this will trigger reparent flow and can cause data loss
+ * Avoid `current.setAbortAction()` and generate a separate record
+ * Use `producer.var1` to access variables
+ */]]&gt;&lt;/save_script&gt;&lt;scale_max&gt;5&lt;/scale_max&gt;&lt;scale_min&gt;0&lt;/scale_min&gt;&lt;show_help&gt;false&lt;/show_help&gt;&lt;show_help_on_load&gt;false&lt;/show_help_on_load&gt;&lt;sp_widget/&gt;&lt;summary_macro/&gt;&lt;sys_class_name&gt;item_option_new&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-08 08:00:46&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;c07e2b9c3b70035875e10964c3e45ad4&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Short Description&lt;/sys_name&gt;&lt;sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Customer Contracts and Entitlements"&gt;39e31bb1873b4110a1f0b995dabb3520&lt;/sys_scope&gt;&lt;sys_update_name&gt;item_option_new_c07e2b9c3b70035875e10964c3e45ad4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-08 08:00:46&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;tooltip/&gt;&lt;topic_block/&gt;&lt;type&gt;6&lt;/type&gt;&lt;ui_page/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;validate_regex/&gt;&lt;variable_name/&gt;&lt;variable_set/&gt;&lt;variable_width/&gt;&lt;visibility&gt;1&lt;/visibility&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;visible_summary&gt;true&lt;/visible_summary&gt;&lt;write_roles/&gt;&lt;/item_option_new&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=c07e2b9c3b70035875e10964c3e45ad4"/&gt;&lt;fx_price action="delete_multiple" query="id=c07e2b9c3b70035875e10964c3e45ad4"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price_if_checked&lt;/field&gt;&lt;id&gt;c07e2b9c3b70035875e10964c3e45ad4&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-08 08:00:46&lt;/sys_created_on&gt;&lt;sys_id&gt;8dbee3503bb0035875e10964c3e45a86&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-08 08:00:46&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;rec_price_if_checked&lt;/field&gt;&lt;id&gt;c07e2b9c3b70035875e10964c3e45ad4&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-08 08:00:46&lt;/sys_created_on&gt;&lt;sys_id&gt;c1bee3503bb0035875e10964c3e45a86&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-08 08:00:46&lt;/sys_updated_on&gt;&lt;table&gt;item_option_new&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1342284943</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>eee3e878ebe10f108deef07fbad0cde9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e069a75560000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table/>
+<target_name>Short Description</target_name>
+<type>Variable</type>
+<update_domain>global</update_domain>
+<update_guid>09bee3505ab00358ce0c64f28a4d7e8a</update_guid>
+<update_guid_history>09bee3505ab00358ce0c64f28a4d7e8a:1342284943</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_9ae39dca3bb0cb9875e10964c3e45a5c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><encryption_context/><federated_id/><grantable>true</grantable><includes_roles/><name>sn_pss_core.bulk_lead_import_user</name><scoped_admin>false</scoped_admin><suffix>bulk_lead_import_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:13:51</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>9ae39dca3bb0cb9875e10964c3e45a5c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_pss_core.bulk_lead_import_user</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_user_role_9ae39dca3bb0cb9875e10964c3e45a5c</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:13:51</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>1928858802</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>f2e36c78ebe10f108deef07fbad0cd2b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202f4d730000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table/>
+<target_name>sn_pss_core.bulk_lead_import_user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>2ae3910ed0b0cb98f34358575f67ce6e</update_guid>
+<update_guid_history>2ae3910ed0b0cb98f34358575f67ce6e:1928858802</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CSM and FSM Configurable Workspace Foundation">27b568be53b11010d4f9ddeeff7b12c5</application>
+<category>customer</category>
+<comments/>
+<name>sys_hub_flow_60c5438d3bfccb5875e10964c3e45ae1</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_hub_flow"&gt;&lt;sys_hub_flow action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;acls/&gt;&lt;active&gt;false&lt;/active&gt;&lt;annotation/&gt;&lt;attributes&gt;labelCacheCleanUpExecuted=true&lt;/attributes&gt;&lt;authored_on_release_version&gt;28100&lt;/authored_on_release_version&gt;&lt;callable_by_client_api&gt;false&lt;/callable_by_client_api&gt;&lt;category/&gt;&lt;compiler_build/&gt;&lt;copied_from/&gt;&lt;copied_from_name/&gt;&lt;description&gt;This flow creates contract from Customer Order table&lt;/description&gt;&lt;display_name_after_preview/&gt;&lt;flow_priority&gt;MEDIUM&lt;/flow_priority&gt;&lt;generation_source/&gt;&lt;internal_name&gt;contracts&lt;/internal_name&gt;&lt;label_cache&gt;[{"name":"e7aa91ed-5e87-4797-aa61-5831254a5cd7.Records","label":"2➛Order Line Item Records","reference":"sn_csm_om_order_line_item","reference_display":"Order Line Item Records","type":"records","base_type":"records","parent_table_name":null,"column_name":null,"choices":null,"usedInstances":{},"attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3571ad9e-de87-4ba2-836b-06678b014fc1.record.starts","label":"1➛Customer Contract Record➛Starts","reference":"","reference_display":"Starts","type":"glide_date","base_type":"glide_date","parent_table_name":"sn_pss_core_service_contract","column_name":"starts","choices":[{"label":null,"value":null,"order":0}],"usedInstances":{"64a8a143-6f44-4cc6-a325-7ae8d89efc5c":["starts"]},"attributes":null},{"name":"Updated_1.current.sys_id","label":"Trigger - Record Updated➛Customer Order Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"sn_ind_tmt_orm_order","column_name":"sys_id","choices":[{"label":null,"value":null,"order":0.0}],"usedInstances":{"e7aa91ed-5e87-4797-aa61-5831254a5cd7":["conditions"]},"attributes":null},{"name":"3571ad9e-de87-4ba2-836b-06678b014fc1.record.ends","label":"1➛Customer Contract Record➛Ends","reference":"","reference_display":"Ends","type":"glide_date","base_type":"glide_date","parent_table_name":"sn_pss_core_service_contract","column_name":"ends","choices":[{"label":null,"value":null,"order":0}],"usedInstances":{"64a8a143-6f44-4cc6-a325-7ae8d89efc5c":["ends"]},"attributes":null},{"name":"Updated_1.current.account.name","label":"Trigger - Record Updated➛Customer Order Record➛Account➛Name","reference":"","reference_display":"Name","type":"string","base_type":"string","parent_table_name":"customer_account","column_name":"name","choices":[{"label":null,"value":null,"order":0.0}],"usedInstances":{"3571ad9e-de87-4ba2-836b-06678b014fc1":["vendor_account"]},"attributes":null},{"name":"Updated_1.run_start_date_time","label":"Trigger - Record Updated➛Run Start Date/Time","reference":null,"reference_display":null,"type":"glide_date_time","base_type":"glide_date_time","parent_table_name":null,"column_name":null,"choices":[{"label":null,"value":null,"order":0.0}],"usedInstances":{"3571ad9e-de87-4ba2-836b-06678b014fc1":["starts"]},"attributes":{"test_input_hidden":"true"}},{"name":"51998d27-5319-4406-ab81-1f4beb0f2841.item.product","label":"3➛Order Line Item Record➛Product model","reference":"cmdb_model","reference_display":"Product model","type":"reference","base_type":"reference","parent_table_name":"sn_csm_om_order_line_item","column_name":"product","choices":[{"label":null,"value":null,"order":0}],"usedInstances":{"64a8a143-6f44-4cc6-a325-7ae8d89efc5c":["product_model"]},"attributes":null},{"name":"3571ad9e-de87-4ba2-836b-06678b014fc1.record.sys_id","label":"1➛Customer Contract Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"sn_pss_core_service_contract","column_name":"sys_id","choices":[{"label":null,"value":null,"order":0.0}],"usedInstances":{"64a8a143-6f44-4cc6-a325-7ae8d89efc5c":["ramp"]},"attributes":null},{"name":"Updated_1.current.number","label":"Trigger - Record Updated➛Customer Order Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"sn_ind_tmt_orm_order","column_name":"number","choices":[{"label":null,"value":null,"order":0.0}],"usedInstances":{"3571ad9e-de87-4ba2-836b-06678b014fc1":["short_description"]},"attributes":null}]&lt;/label_cache&gt;&lt;latest_snapshot/&gt;&lt;master_snapshot/&gt;&lt;master_snapshot_digest/&gt;&lt;name&gt;Contracts &lt;/name&gt;&lt;natlang/&gt;&lt;outputs/&gt;&lt;pre_compiled&gt;false&lt;/pre_compiled&gt;&lt;remote_trigger_id/&gt;&lt;run_as&gt;user&lt;/run_as&gt;&lt;run_with_roles/&gt;&lt;sc_callable&gt;false&lt;/sc_callable&gt;&lt;show_draft_actions&gt;false&lt;/show_draft_actions&gt;&lt;show_triggered_flows&gt;false&lt;/show_triggered_flows&gt;&lt;status&gt;draft&lt;/status&gt;&lt;substatus/&gt;&lt;sys_class_name&gt;sys_hub_flow&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-10 12:57:19&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;60c5438d3bfccb5875e10964c3e45ae1&lt;/sys_id&gt;&lt;sys_mod_count&gt;16&lt;/sys_mod_count&gt;&lt;sys_name&gt;Contracts &lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CSM and FSM Configurable Workspace Foundation"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_hub_flow_60c5438d3bfccb5875e10964c3e45ae1&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-10 13:11:16&lt;/sys_updated_on&gt;&lt;type&gt;flow&lt;/type&gt;&lt;updation_source/&gt;&lt;version&gt;2&lt;/version&gt;&lt;version_record&gt;aee88b893b300f5875e10964c3e45af2&lt;/version_record&gt;&lt;/sys_hub_flow&gt;&lt;sys_variable_value action="delete_multiple" query="document_key=60c5438d3bfccb5875e10964c3e45ae1"/&gt;&lt;sys_hub_flow_stage action="delete_multiple" query="flow=60c5438d3bfccb5875e10964c3e45ae1"/&gt;&lt;sys_flow_cat_variable_model action="delete_multiple" query="id=60c5438d3bfccb5875e10964c3e45ae1^sys_idNOT IN24c5438d3bfccb5875e10964c3e45ae3"/&gt;&lt;sys_flow_cat_variable_model action="INSERT_OR_UPDATE"&gt;&lt;id&gt;60c5438d3bfccb5875e10964c3e45ae1&lt;/id&gt;&lt;name&gt;Contracts &lt;/name&gt;&lt;sys_class_name&gt;sys_flow_cat_variable_model&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-10 12:57:19&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;24c5438d3bfccb5875e10964c3e45ae3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CSM and FSM Configurable Workspace Foundation"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-10 12:57:19&lt;/sys_updated_on&gt;&lt;/sys_flow_cat_variable_model&gt;&lt;sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=24c5438d3bfccb5875e10964c3e45ae3"/&gt;&lt;sys_hub_flow_input action="delete_multiple" query="model=60c5438d3bfccb5875e10964c3e45ae1^sys_idNOT IN0bd583cd3bfccb5875e10964c3e45a86,9bd583cd3bfccb5875e10964c3e45ae8,dbd583cd3bfccb5875e10964c3e45add"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;table_name&lt;/internal_type&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;200&lt;/max_length&gt;&lt;model display_value="Contracts "&gt;60c5438d3bfccb5875e10964c3e45ae1&lt;/model&gt;&lt;model_id&gt;60c5438d3bfccb5875e10964c3e45ae1&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_60c5438d3bfccb5875e10964c3e45ae1&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;101&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-10 12:57:46&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;0bd583cd3bfccb5875e10964c3e45a86&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CSM and FSM Configurable Workspace Foundation"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-10 12:57:46&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;u_alignment_rationale/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=0bd583cd3bfccb5875e10964c3e45a86"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FDCollection,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;changed_fields&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;label&gt;Changed Fields&lt;/label&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;4000&lt;/max_length&gt;&lt;model display_value="Contracts "&gt;60c5438d3bfccb5875e10964c3e45ae1&lt;/model&gt;&lt;model_id&gt;60c5438d3bfccb5875e10964c3e45ae1&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_60c5438d3bfccb5875e10964c3e45ae1&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-10 12:57:47&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;9bd583cd3bfccb5875e10964c3e45ae8&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CSM and FSM Configurable Workspace Foundation"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-10 12:57:47&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;u_alignment_rationale/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=9bd583cd3bfccb5875e10964c3e45ae8"/&gt;&lt;sys_hub_flow_input action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes&gt;element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id&lt;/attributes&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent&gt;table_name&lt;/dependent&gt;&lt;dependent_on_field&gt;table_name&lt;/dependent_on_field&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;current&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;formula/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;help/&gt;&lt;hint/&gt;&lt;internal_type display_value=""&gt;document_id&lt;/internal_type&gt;&lt;label&gt;Record&lt;/label&gt;&lt;mandatory&gt;true&lt;/mandatory&gt;&lt;max_length&gt;200&lt;/max_length&gt;&lt;model display_value="Contracts "&gt;60c5438d3bfccb5875e10964c3e45ae1&lt;/model&gt;&lt;model_id&gt;60c5438d3bfccb5875e10964c3e45ae1&lt;/model_id&gt;&lt;model_table&gt;sys_hub_flow&lt;/model_table&gt;&lt;name&gt;var__m_sys_hub_flow_input_60c5438d3bfccb5875e10964c3e45ae1&lt;/name&gt;&lt;next_element/&gt;&lt;order&gt;100&lt;/order&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_hub_flow_input&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-10 12:57:47&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;dbd583cd3bfccb5875e10964c3e45add&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CSM and FSM Configurable Workspace Foundation"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-10 12:57:47&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;u_alignment_rationale/&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;true&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;virtual_type&gt;script&lt;/virtual_type&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_hub_flow_input&gt;&lt;sys_hub_action_input_action_instance action="delete_multiple" query="action_input=dbd583cd3bfccb5875e10964c3e45add"/&gt;&lt;sys_hub_flow_output action="delete_multiple" query="model=60c5438d3bfccb5875e10964c3e45ae1"/&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=60c5438d3bfccb5875e10964c3e45ae1"/&gt;&lt;sys_hub_trigger_instance_v2 action="delete_multiple" query="flow=60c5438d3bfccb5875e10964c3e45ae1^sys_idNOT IN33d507cd3bfccb5875e10964c3e45a16"/&gt;&lt;sys_hub_trigger_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;comment/&gt;&lt;display_text/&gt;&lt;flow display_value="Contracts "&gt;60c5438d3bfccb5875e10964c3e45ae1&lt;/flow&gt;&lt;generation_source/&gt;&lt;name&gt;Updated&lt;/name&gt;&lt;published_version/&gt;&lt;remote_sys_id/&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-10 12:57:49&lt;/sys_created_on&gt;&lt;sys_id&gt;33d507cd3bfccb5875e10964c3e45a16&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_scope/&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-10 12:58:44&lt;/sys_updated_on&gt;&lt;trigger_definition display_value="Updated"&gt;bb695e60c31322002841b63b12d3aea5&lt;/trigger_definition&gt;&lt;trigger_inputs&gt;H4sIAAAAAAAA/91a227bOBD9FUFPu0B2IVm+xOlT1km2AdIEsL3dh6IQKJGyhcqkK1JK3aD/vkPdrAvlxLZc1PuUiKQ4M4dnzowkf3rRA+SQQL/SpxHV5qG/WJBQv9B9KkhIUTDfrAlMukvmuwTG038efC70q08vuvcRBZFcwGgy7T1kuz1l1/crtJDz8v8ZCYgrCNavPBRwAiP/8PLVB59zny6ygR8Xpe1JTMJNef87FmrJoBatMRJd2oqo/zUitrtEdEF4wyhyl1q6REuXdGgaBc9ow6s4BhvN9zTKhOZGYUiogIEwolRucZzlzxf6ClFAjwG2xaKQreZktQ4kqPkgCzGw4so0zAs9lr7ONvwep1YpWkn7IqWOzUUIdy7kYcW1w8M+h203ebAJm/wAQ0zAJXBmjULYS0hLLwUBH3z6RbXYl+ZdczzoWfjStcyx1TOM3mXfdIaWY/awhQgy4S41vdudFjXCy+v8MCb5YBkP8k0QikswNzENCcLyIIuBJURX9Skjs/BXRBNLoBaj2Bc+o9oKCXdJ+IUG5GOSDXLa80MuktV/6tLiN+5/B7f7hjTmEUDJzSAuLu0M/owrN0igmQgjV0RhcRoyPJ4kdlDN47ia5ln8hiRv8FpyxG15laNY3uU1vsf1TMk26TVcqYpDnYvZbZZMAkw8FAVism/4Zifh97oI3zos/L4MPz32p7VkGyyxJOmRE+SkYEG0oo9pvugFWDXdz0ZvqhmeoRdxIB9ZyyyRtM+FZrZkz9OcnXc+TTzKJgPmoqC4QgIS1YmEPJwXXfrx40LnGz4JEOdb14Dq9tdI3pc6mlm0k7DkLVkG3PkkyMSLu6G/Fteu8GNSEuQcyUmehYqKmE9xfX8ZNVpl1C1ZzA+NC9hk8v768e/b2fzJZbArkSp/CkV1nDHCBBmgqFavoajDUUlRy+AovBcKnCpiWp4oI3OIoJYU0OhIA1XC0MyWvZKlmQtg/JhUyKGy2ZqEEiIY1T9eP2RkeZf9vZs+fXhXEAi8eEZUcFswG2Fsl05IVsRIpuyKYRLcbP0sKqVP15HgB+RfitIhSQjqB1vYBS32b06zoIqmStZdqKyZwGpALy3fXUv85B32dMlI0zrIesmFFJ2f3s6161AT9LgWT/faM3Sx2XdGQ2Mklcc0LMczjZExQB62DGNslbSn6V6r3/s1dMfrT9cd2C661M9E1Ze9iexxNVOKBmd3d3SAa2ZHrvWO7lwKHitbl12hddzPIBwjuAPnMR7W27xBRL2APYOAHyCgHgvJImQRxXUhk3tqPvytrOhIOh3kftltdrtC+y07yN9/NRndwl507/Q0j8N94uLRsD80QDctkExnMB47Lup53mg4IgauCejWMaW3/wfhfIUnsYpobSKqpHqsypA95PMIBxtSureDx4toxmSlhKZz5yqWz0tCbXA+tAMphw3NXAQ+Jvlct4LRMB1vJaJ70bC8SzwYjEbuCJ72QDS8PnGQ2e8N0Hg0tMiwJhoN53Y5LhRYlWXkIR064dMfkCPxqEVOStO/wNPgeSUHJ0Kkb6X2bSeS9Sg1UH/XnQgZCzWo0aF2v12ozQiU6eTNQmftBRPLRmMBpv+C8Ypp2Zg+MvqHwp0unxQpPLi8BZoWV361vqdGkriK+gm6n0trPMCepRayUU8lZFv32h0/9z7ojdyJW1moaojemquxMuVbO5gDsq/Gq3Jrs/PFfjegND9eHAtK73SgWEf3e3nytj4zH+LsWVfBpN05vBQySmzmKaXe97TsrSvBmpN992MBNPlgSpN2uyw+abfeqIUwrOUNUmdlTsJcD/uGJR+9wp8S+GlqXY0Kp37ad72xg8dWS+M+aG/c24tebfrcK9/enIpVFN1Z/vbbt76nsgCWUq5KoTeWtk6jVte346JWVrjXoj6+du16V6Hw4hyr0jx7Q12rQglGdpLslZTMvj7u0r323/vU3vNz2SBhW6zA23Blp/c3ZG8SccFW0Bg9ZfPHiqCJMTJ7pOV7NbosiWAOTi0AocCoLHTJbdpjOrGFZZfUpbi2K93lOX2iPpb4nh/AOdopvpxFYRLy9HbyNL2x/72eT97fTu3p7Ww+vZ/Mb2+6+WkHjVZOwi9Vwnz+D8W3hmH2KAAA&lt;/trigger_inputs&gt;&lt;trigger_outputs/&gt;&lt;trigger_type&gt;record_update&lt;/trigger_type&gt;&lt;updation_source/&gt;&lt;/sys_hub_trigger_instance_v2&gt;&lt;sys_hub_action_instance_v2 action="delete_multiple" query="flow=60c5438d3bfccb5875e10964c3e45ae1^sys_idNOT IN37a707853b300f5875e10964c3e45a40,3d26c7013b300f5875e10964c3e45aab,b4e6c3c13b300f5875e10964c3e45aed"/&gt;&lt;sys_hub_action_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;action_type display_value="Create Record"&gt;2de05916c31332002841b63b12d3aee1&lt;/action_type&gt;&lt;action_type_parent/&gt;&lt;attributes/&gt;&lt;comment/&gt;&lt;compiled_snapshot/&gt;&lt;display_text/&gt;&lt;flow display_value="Contracts "&gt;60c5438d3bfccb5875e10964c3e45ae1&lt;/flow&gt;&lt;generation_source/&gt;&lt;order&gt;4&lt;/order&gt;&lt;parent_ui_id&gt;51998d27-5319-4406-ab81-1f4beb0f2841&lt;/parent_ui_id&gt;&lt;sys_class_name&gt;sys_hub_action_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-10 13:05:44&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;37a707853b300f5875e10964c3e45a40&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CSM and FSM Configurable Workspace Foundation"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-10 13:11:06&lt;/sys_updated_on&gt;&lt;ui_id&gt;64a8a143-6f44-4cc6-a325-7ae8d89efc5c&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/+1UwW6jMBD9lcjngHAghOS2StVTt5W2VS/dLjJ4aCwZw9ombTbKv+8YQ1JVrbZb7aXScmLGM8N7jze+2xPByYqkHKLlkqZlTON4FkWzLKFFGhd0xmMGtCBTolgNWLllsgODcf+CCc3q9nsXRTHf7+P5gjK+hIBDtgiSgs2CLE6LIErTRVZENKlKGmooG81DszO54IfDj1Y3vCttXjcc5DhpTpfLjM8WwTymyyBJojRgRUYDWiUFFFHlAIbCQh0O7TjIWKat+RCWvhNHgOIfGuD6PAILvp+VVmwBdeLCtJLtbv/L9S65yo2QXIMiq7v7KWkZ6gUWNFntXxy917eSFSCx9FyA5OYVI9td62IUB/+Thdwb2+cvhuab4XByOxwiCweKTgk8WaQDiKZi0sCU1ExxZhu9IyurO0xoYPxKyd2xYiOUxaHE1T4Z8Qs/T9Oof1x1BUiyBF9xDPPBSD5dnTHLrnF+aTs9lJabRpRIqZeHQ8U6adfPc77gqrWiUb7FskKO3Y3sanXpxSHHAaNvMdMZBAGtY+vwe3LV9aZ5/DaCPBeq12UgKpuSyWPErNWi6KyDsycgocY5ec3aVqiHHI25FX0zQqnDB4lBWMnmEb9pxIMKnUUaFaK2LDzH/FmfvmVaOBJfcQw2H6YEN2UtmTEnKqhh/rNzSDyxgULeq9BLkPemcM2lFq394t3ogR+m4yVJIZq/aTZITt56NvN0URqVt8bkuACQG9Bb/BUYKKuRWC6FeuWyWHfGNjXoyXqom1z4ur/ckj8DH7fkpjfE60TGRXmZu3jeO7n0B8OCRP9qQbLPtBoDjU+/G29txP1vmgUe0TgIAAA=&lt;/values&gt;&lt;/sys_hub_action_instance_v2&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=37a707853b300f5875e10964c3e45a40"/&gt;&lt;sys_hub_action_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;action_type display_value="Create Record"&gt;2de05916c31332002841b63b12d3aee1&lt;/action_type&gt;&lt;action_type_parent/&gt;&lt;attributes/&gt;&lt;comment/&gt;&lt;compiled_snapshot/&gt;&lt;display_text/&gt;&lt;flow display_value="Contracts "&gt;60c5438d3bfccb5875e10964c3e45ae1&lt;/flow&gt;&lt;generation_source/&gt;&lt;order&gt;1&lt;/order&gt;&lt;parent_ui_id/&gt;&lt;sys_class_name&gt;sys_hub_action_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-10 12:59:03&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;3d26c7013b300f5875e10964c3e45aab&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CSM and FSM Configurable Workspace Foundation"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-10 13:01:53&lt;/sys_updated_on&gt;&lt;ui_id&gt;3571ad9e-de87-4ba2-836b-06678b014fc1&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/91Uy27bMBD8FYNnV5Di1Eh8KxzklCZAk+aSNgRFrmICFKny4cQ19O9dkpKd5tEH0EuqEzmcXc0sd3mzJVKQBZkLKI+PqzmfVbPZQVkeHB1W9XxWVwdixqCqyZRo1gIy10wFcLhPiwiAFsZSxrkJ2n8JZTkT2+3nTjAPglYFD9aC9sVAKGKevr91nlnvntNt0DSd0YhQLxMb/zFwY6CHvGbcyzXcupWJdHDcys5Lo/Pp1Uq6CTfaW+RNcN0Yu3g3eUmbDm0Ntu/RlpCuU2xz/X+64yupBIJkcfN1SjpmUa4HSxbbJ0d/2hWK1aCQeipBCfdCm/hNF/ceWiwrWs5tk/GzIfhqOJxcD4fGiiiqmhJ48FgdQDUNUw6mpGUa/Rm7IQtvAwIWmLjQarNjrKT2mJRE7oOT3/H31bxMX2Q3gCY5ZMZuS4d7z3Bzwjy7xPzcBztQ+cpIjpZSeQQ0LCi/fIxlwkW6oxziWa3GaKNCq89zccguwdhmiASHIqCLbqP+bK65XJn7T6PIU6lTXQajynCmdjvmvZV18FHOloCCFvPQlnWd1He0s2YtUzBKaYs7hZuiUeY+dpa800XsNqMLrC0rThE/SfA1szKa+IhpMLifErdxS8Wc21vBGtJvISrJxgYLNFUhlYCmpojBqYc/pMbeCc9gFP3zsEXklwGE9H0/HV+wCsr3r/YqHO5b85Gk/SvmNO2co9xYoA7sGm+SjtP1/FVYBudNC3ay3FP+crR+L3ccravURS/LH6frKXb2OHZyng+GqSr/1VQdvaV5Gmy8+YF6ZYz6rz8ALMZ+WssHAAA=&lt;/values&gt;&lt;/sys_hub_action_instance_v2&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=3d26c7013b300f5875e10964c3e45aab"/&gt;&lt;sys_hub_action_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;action_type display_value="Look Up Records"&gt;43400a1587003300663ca1bb36cb0b4b&lt;/action_type&gt;&lt;action_type_parent/&gt;&lt;attributes/&gt;&lt;comment/&gt;&lt;compiled_snapshot/&gt;&lt;display_text/&gt;&lt;flow display_value="Contracts "&gt;60c5438d3bfccb5875e10964c3e45ae1&lt;/flow&gt;&lt;generation_source/&gt;&lt;order&gt;2&lt;/order&gt;&lt;parent_ui_id/&gt;&lt;sys_class_name&gt;sys_hub_action_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-10 13:02:15&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;b4e6c3c13b300f5875e10964c3e45aed&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CSM and FSM Configurable Workspace Foundation"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-10 13:04:21&lt;/sys_updated_on&gt;&lt;ui_id&gt;e7aa91ed-5e87-4797-aa61-5831254a5cd7&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/+VW224aMRD9FeRnhHYLISlvFVGkSLlISZqXNLK8ay9Y9V5qeyEE8e8dX3ahsCFQ7QNVJSS0M2PPmZlzbL8sEadohIJkEAQkPLs4D4J+PwiGw35MwijqD+MoiM6+oi7KSMogUuVSY70oGJhmRJS1jagYTJSrQpDFs/eQjs4772CPp1xQyTI0enntooJI2E0ziUbLLdehcASJmIDQR8jdeXJ4GiDavxHkyHlcfd/4pePKmEtqoPS7iL1pllEGGBIiFOuilGSU6FwuaotkhN5nYm2Y8kzDbsgEvyn+Dvn6X0xcwqCqmDlf/Yl9i5w5uSSaPGpZxrqUPtSBVdCPZV1m3ciGnnv4waq7jn838WQ7nrLNBeEK+k1ZQkqhx3+XMzw25xeT0xV4X2iew9RR38yFRKIqPxdlmt25WaIa4XMD2Zzn8gPOlQqazQozUDMhP67kcZrPH6ppXPHM4vJOkcdE1F9Ea8mjUpu+LFFCccKZoJhngmcmE4zN0IcJlkIGnJKi4NkEFzKfcbsr1JL2JgI+eonI56YXfJL1SGwq7wGxSO8K7JfW/EwkN124hW1gcdcknMJSnw+rWPJC4zmnE6bX2asomus5ET+b/J5xuBqULQ+tukgt1FgQpdbNBpriX6XpgWu97x62g7JLLIpvUMGM+UYZDljZxud7ZXu2JVE36A2+7J4fR58cB0CounBvGNmJFh+h8keHm7mN+PP4uDKOzp1zVPRu7Qi5CNo5QpokvivBoxS4Ky1DtX9HWccT3/XmE/YP9l5aw3DNMxgylkxBS9UG+8Mg2BWAMx6ngQOAVBq4JW+dhxpJIzwvA2Aom9hjaVMD17XVC2DQmgAGpysAGErw4fUTdp235dvnVKTwmQou9j/dgjXN4jyj3GDcFIGl0Y8S1tLl8nsB6BnFYS8uJTRM9wAs5nS12hXK4QuPE9MB9VRiGm8W1FRk9Rjdtt00bVC9sFoUVHC6kmr9TjkVvRx0dewn2SBa88ltt/HEznCsUpzDz/AF25ci1yzdVYh779xAQOfaBbSpBAuyUsKTR7kF2vPffja9qOyyrRdV8H++qE7zugBAXABDsBuhyktpWznDsSiVdUiSKbdXi5fL6289fk+SqBAAAA==&lt;/values&gt;&lt;/sys_hub_action_instance_v2&gt;&lt;sys_hub_alias_mapping action="delete_multiple" query="source_id=b4e6c3c13b300f5875e10964c3e45aed"/&gt;&lt;sys_hub_sub_flow_instance_v2 action="delete_multiple" query="flow=60c5438d3bfccb5875e10964c3e45ae1"/&gt;&lt;sys_hub_flow_logic_instance_v2 action="delete_multiple" query="flow=60c5438d3bfccb5875e10964c3e45ae1^sys_idNOT IN147747453b300f5875e10964c3e45a40"/&gt;&lt;sys_hub_flow_logic_instance_v2 action="INSERT_OR_UPDATE"&gt;&lt;attributes/&gt;&lt;block display_value=""&gt;d07747453b300f5875e10964c3e45a3f&lt;/block&gt;&lt;comment/&gt;&lt;connected_to/&gt;&lt;decision_table/&gt;&lt;display_text/&gt;&lt;flow display_value="Contracts "&gt;60c5438d3bfccb5875e10964c3e45ae1&lt;/flow&gt;&lt;flow_variables_assigned/&gt;&lt;generation_source/&gt;&lt;logic_definition display_value="For Each"&gt;098e1dc5c3e232002841b63b12d3ae33&lt;/logic_definition&gt;&lt;order&gt;3&lt;/order&gt;&lt;outputs_assigned/&gt;&lt;parent_ui_id/&gt;&lt;sys_class_name&gt;sys_hub_flow_logic_instance_v2&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-10 13:04:40&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;147747453b300f5875e10964c3e45a40&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CSM and FSM Configurable Workspace Foundation"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-10 13:05:44&lt;/sys_updated_on&gt;&lt;ui_id&gt;51998d27-5319-4406-ab81-1f4beb0f2841&lt;/ui_id&gt;&lt;updation_source/&gt;&lt;values&gt;H4sIAAAAAAAA/51Ty27bMBD8F55tQQ+/b0GCAAHSBnCCXIrAWJMrmwhFqiRlRxX0712ashLkVPQk7exrZrTqmGl83Xj3Ym6ckwfNNr/eJkzqgNF7x6RgG5atRbnO0jUv8kWRp2m+mmX7RbHPclEAigWbMA0VUqX0WDkKT6CaEHcdLgHWGYrpHFfL6Wy5Xk4BFtl0viqyfD6DORfLZIvcWOH6nlqFdLWC9vX/J/CjVMLiIKYGS9w8WrbpvqX+VZyCPSoqfRjUfRPr2zqENlIYgMehZzui9Agk8nTC8MOjFkjrS1AOJ6wCLcAb27KNtw0BFkE8adWOFUepPY1jofbDyT+0MUvTUFgiCeIYk2O4G3yMcHkHHp5pNPeNHUr50UiOLlohsIRG+duvWCx4qr00OrZ42Ktrt1FNpX9GJ9g44PrZCGkckcA6CA3UBx3l89Gct1eW91JfTBmSynBQYwTeW7lvfODTMVRY0aBdBXUt9WFXW3OSl2biUiUHRUFSKnOmpeGUE+CBeEK+QnJP+N0FfgUrg4ofNIaa+wlzrbtV4NynFjJx97sJTKKyQcMu2hBauJW1v6EFJxzo9m/h6uPs0VMuHVF4CdjD9Z8KiZYuSPKv0NnY90D+E+v/Ai4XahadAwAA&lt;/values&gt;&lt;workflow_reference/&gt;&lt;/sys_hub_flow_logic_instance_v2&gt;&lt;sys_hub_pill_compound action="delete_multiple" query="attached_to=60c5438d3bfccb5875e10964c3e45ae1"/&gt;&lt;sys_hub_flow_variable action="delete_multiple" query="model=60c5438d3bfccb5875e10964c3e45ae1"/&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;current&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Record&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_60c5438d3bfccb5875e10964c3e45ae1&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-10 12:57:47&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;13d583cd3bfccb5875e10964c3e45ae5&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CSM and FSM Configurable Workspace Foundation"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-10 12:57:47&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;table_name&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Table Name&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_60c5438d3bfccb5875e10964c3e45ae1&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-10 12:57:47&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;dfd583cd3bfccb5875e10964c3e45ad9&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CSM and FSM Configurable Workspace Foundation"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-10 12:57:47&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_documentation action="INSERT_OR_UPDATE"&gt;&lt;element&gt;changed_fields&lt;/element&gt;&lt;help/&gt;&lt;hint/&gt;&lt;label&gt;Changed Fields&lt;/label&gt;&lt;language&gt;en&lt;/language&gt;&lt;name&gt;var__m_sys_hub_flow_input_60c5438d3bfccb5875e10964c3e45ae1&lt;/name&gt;&lt;plural/&gt;&lt;sys_class_name&gt;sys_documentation&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rimkumari&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-10 12:57:47&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;dfd583cd3bfccb5875e10964c3e45af0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CSM and FSM Configurable Workspace Foundation" source="sn_cwf_wrkspc"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CSM and FSM Configurable Workspace Foundation"&gt;27b568be53b11010d4f9ddeeff7b12c5&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by&gt;rimkumari&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-10 12:57:47&lt;/sys_updated_on&gt;&lt;url/&gt;&lt;url_target/&gt;&lt;/sys_documentation&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_60c5438d3bfccb5875e10964c3e45ae1"/&gt;&lt;sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_60c5438d3bfccb5875e10964c3e45ae1"/&gt;&lt;sys_flow_trigger_plan action="delete_multiple" query="plan_id=60c5438d3bfccb5875e10964c3e45ae1"/&gt;&lt;sys_flow_subflow_plan action="delete_multiple" query="plan_id=60c5438d3bfccb5875e10964c3e45ae1"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-2060247244</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>f2e3e878ebe10f108deef07fbad0cdf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e120374b50000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table/>
+<target_name>Contracts </target_name>
+<type>Flow</type>
+<update_domain>global</update_domain>
+<update_guid>3cf84f894af80794b41d061b8f1790a0</update_guid>
+<update_guid_history>3cf84f894af80794b41d061b8f1790a0:-2060247244,92b78785f5300f58e1c6005f29630ab8:-871567822,86a7838514300f586e3e34e1c61ac961:468969623,e277070578f80794d282b3f17b93569e:692426049,b967cfc10df80794bfdf342c29d6735b:1481516023,8be6cb4133f80794b3d12b11627cd63f:868100112,71d6474157f8079428cf0c7b3b5c7713:-99593847,9db6cb019af807949a55f324427c17f5:-620008488,9c364b016a300f58a42ed43df3cee5f1:-1495060959,7b16070108300f58ee0a1c56f4cac4f4:-1932180278,8b060b4d97b80794a3a3764b488e9562:-1879954349,19e547cd88fccb586667887a328a2b3b:1031771782,34c5cb8d45fccb58b33fe68696c0ec20:2144962620</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_fc04990e3bb0cb9875e10964c3e45ade</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Default access control on sn_pss_core_bulk_lead_import</description><local_or_existing>Existing</local_or_existing><name>sn_pss_core_bulk_lead_import</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:17</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>fc04990e3bb0cb9875e10964c3e45ade</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_pss_core_bulk_lead_import</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_security_acl_fc04990e3bb0cb9875e10964c3e45ade</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:17</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1848743341</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>f6e3e878ebe10f108deef07fbad0cdf1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fb38b0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>sn_pss_core_bulk_lead_import</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>7404d90ea7b0cb980331046dbad51332</update_guid>
+<update_guid_history>7404d90ea7b0cb980331046dbad51332:1848743341</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sn_pss_core_service_contract_u_check</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_check" table="sn_pss_core_service_contract"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>check</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_check</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>sn_pss_core_service_contract</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-11 12:38:16</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>57fac8213b38439875e10964c3e45a21</sys_id><sys_name>check</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_dictionary_sn_pss_core_service_contract_u_check</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-11 12:38:17</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><u_alignment_rationale/><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1334361825</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>fae3e878ebe10f108deef07fbad0cded</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e170b9d750000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_service_contract</table>
+<target_name>Customer Contract.check</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>6bfac82115384398fcdd05757c403e86</update_guid>
+<update_guid_history>6bfac82115384398fcdd05757c403e86:-1334361825,1ffac821e538439881896fd6537e745f:-1472584868</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_fc04d90e3bb0cb9875e10964c3e45a34</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:14:17</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>fc04d90e3bb0cb9875e10964c3e45a34</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_pss_core_bulk_lead_import.sn_pss_core.bulk_lead_import_user</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_security_acl display_value="sn_pss_core_bulk_lead_import">fc04990e3bb0cb9875e10964c3e45ade</sys_security_acl><sys_update_name>sys_security_acl_role_fc04d90e3bb0cb9875e10964c3e45a34</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:14:17</sys_updated_on><sys_user_role display_value="sn_pss_core.bulk_lead_import_user" name="sn_pss_core.bulk_lead_import_user">9ae39dca3bb0cb9875e10964c3e45a5c</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-2081708722</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>fae3e878ebe10f108deef07fbad0cdf2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e202fb4600000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>sn_pss_core_bulk_lead_import.sn_pss_core.bulk_lead_import_user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>b804d90e8ab0cb9809f4c4b724da595a</update_guid>
+<update_guid_history>b804d90e8ab0cb9809f4c4b724da595a:-2081708722</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_sn_pss_core_bulk_lead_import_u_last_name_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_last_name" label="Last Name" language="en" table="sn_pss_core_bulk_lead_import"><sys_documentation action="INSERT_OR_UPDATE"><element>u_last_name</element><help/><hint/><label>Last Name</label><language>en</language><name>sn_pss_core_bulk_lead_import</name><plural>Last Names</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>saanjain</sys_created_by><sys_created_on>2026-05-13 07:26:05</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>75b6550a3bf0cb9875e10964c3e45a77</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Last Name</sys_name><sys_package display_value="Customer Contracts and Entitlements" source="sn_pss_core">39e31bb1873b4110a1f0b995dabb3520</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Customer Contracts and Entitlements">39e31bb1873b4110a1f0b995dabb3520</sys_scope><sys_update_name>sys_documentation_sn_pss_core_bulk_lead_import_u_last_name_en</sys_update_name><sys_updated_by>saanjain</sys_updated_by><sys_updated_on>2026-05-13 07:26:05</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>580056119</payload_hash>
+<remote_update_set display_value="default - Customer Contracts and Entitlements">eee3e878ebe10f108deef07fbad0cde8</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:18:50</sys_created_on>
+<sys_id>fee3e878ebe10f108deef07fbad0cdee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e203a84200000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:18:50</sys_updated_on>
+<table>sn_pss_core_bulk_lead_import</table>
+<target_name>Bulk Lead Import.Last Name</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>7db6550acaf0cb9889b139d57ff409a9</update_guid>
+<update_guid_history>7db6550acaf0cb9889b139d57ff409a9:580056119</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

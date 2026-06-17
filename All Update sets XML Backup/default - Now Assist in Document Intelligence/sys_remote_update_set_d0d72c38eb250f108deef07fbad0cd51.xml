@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-06-15 13:35:53">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Now Assist in Document Intelligence">725a3709519cf550f877149997a6e6b9</application>
+<application_name>Now Assist in Document Intelligence</application_name>
+<application_scope>sn_docintel_gen_ai</application_scope>
+<application_version>6.0.5</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>default - Now Assist in Document Intelligence</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>4c6092593bd4c75075e10964c3e45abe</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 13:35:52</sys_created_on>
+<sys_id>d0d72c38eb250f108deef07fbad0cd51</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 13:35:52</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+</unload>

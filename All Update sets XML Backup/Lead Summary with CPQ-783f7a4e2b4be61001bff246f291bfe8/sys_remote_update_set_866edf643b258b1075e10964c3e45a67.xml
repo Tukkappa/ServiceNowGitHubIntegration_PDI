@@ -1,0 +1,1830 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-06-15 08:15:10">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<application_name>CPQ Integration</application_name>
+<application_scope>sn_cpq_intg</application_scope>
+<application_version>3.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Lead Summary with CPQ-783f7a4e2b4be61001bff246f291bfe8</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="Lead Summary with CPQ-783f7a4e2b4be61001bff246f291bfe8">866edf643b258b1075e10964c3e45a67</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>119c725d3b70039875e10964c3e45a9b</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>866edf643b258b1075e10964c3e45a67</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<application_name>CPQ Integration</application_name>
+<application_scope>sn_cpq_intg</application_scope>
+<application_version>3.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Lead Summary with CPQ-783f7a4e2b4be61001bff246f291bfe8</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="Lead Summary with CPQ-783f7a4e2b4be61001bff246f291bfe8">866edf643b258b1075e10964c3e45a67</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>119c725d3b70039875e10964c3e45a9b</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>866edf643b258b1075e10964c3e45a67</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Now Assist Admin Console">7c395aaa53003110453cddeeff7b123c</application>
+<application_name>Now Assist Admin Console</application_name>
+<application_scope>sn_nowassist_admin</application_scope>
+<application_version>8.0.7</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908</name>
+<origin_sys_id/>
+<parent display_value="Lead Summary with CPQ-783f7a4e2b4be61001bff246f291bfe8">866edf643b258b1075e10964c3e45a67</parent>
+<release_date/>
+<remote_base_update_set display_value="Lead Summary with CPQ-783f7a4e2b4be61001bff246f291bfe8">866edf643b258b1075e10964c3e45a67</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>d59cb25d3b70039875e10964c3e45ab8</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>8e6edf643b258b1075e10964c3e45a69</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sn_nowassist_skill_config_a451fed93b7ccf5875e10964c3e45aaf</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sn_nowassist_skill_config"&gt;&lt;sn_nowassist_skill_config action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;description&gt;&lt;![CDATA[Automatically generates comprehensive lead summaries including contact information, opportunity details, CPQ quote status, and recommended next actions.
+]]&gt;&lt;/description&gt;&lt;edited_in_nask&gt;false&lt;/edited_in_nask&gt;&lt;in_product_active&gt;false&lt;/in_product_active&gt;&lt;in_product_roles/&gt;&lt;internal_name&gt;lead_summary_with_cpq.a451fed93b7ccf5875e10964c3e45aaf&lt;/internal_name&gt;&lt;is_template&gt;false&lt;/is_template&gt;&lt;name&gt;Lead Summary with CPQ&lt;/name&gt;&lt;nap_skill_applicability/&gt;&lt;order&gt;100&lt;/order&gt;&lt;parent/&gt;&lt;skill_family display_value="Other"&gt;a5efaf1c93764210aa5730f16489186d&lt;/skill_family&gt;&lt;skill_id&gt;4851bed93b7ccf5875e10964c3e45a23&lt;/skill_id&gt;&lt;skill_table&gt;sys_one_extend_capability&lt;/skill_table&gt;&lt;state&gt;0&lt;/state&gt;&lt;success_message/&gt;&lt;sys_class_name&gt;sn_nowassist_skill_config&lt;/sys_class_name&gt;&lt;sys_created_by&gt;sisridevi&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:30&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;a451fed93b7ccf5875e10964c3e45aaf&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Lead Summary with CPQ&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sn_nowassist_skill_config_a451fed93b7ccf5875e10964c3e45aaf&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;sisridevi&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:31&lt;/sys_updated_on&gt;&lt;upstream_routing/&gt;&lt;/sn_nowassist_skill_config&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a451fed93b7ccf5875e10964c3e45aaf"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1072001453</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-783f7a4e2b4be61001bff246f291bfe8">866edf643b258b1075e10964c3e45a67</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>0e6edf643b258b1075e10964c3e45a67</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fa9a0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Lead Summary with CPQ</target_name>
+<type>Now Assist Skill Config</type>
+<update_domain>global</update_domain>
+<update_guid>999cb25d7270039807e8599e972e6ab6</update_guid>
+<update_guid_history>999cb25d7270039807e8599e972e6ab6:-1072001453,a051fed96c7ccf58cff1a712ac8b4af5:-1072001453,2851fed99c7ccf583f23911904c729d3:822803914</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_capability_4851bed93b7ccf5875e10964c3e45a23</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_capability"><sys_one_extend_capability action="INSERT_OR_UPDATE"><active>true</active><description>Automatically generates comprehensive lead summaries including contact information, opportunity details, CPQ quote status, and recommended next actions.
+</description><external>true</external><metadata>{"isGuidedStep":false}</metadata><name>Lead Summary with CPQ</name><short_description/><sys_class_name>sys_one_extend_capability</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:29</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>4851bed93b7ccf5875e10964c3e45a23</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Lead Summary with CPQ</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_capability_4851bed93b7ccf5875e10964c3e45a23</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:11:43</sys_updated_on><type>skill</type></sys_one_extend_capability><sys_translated_text action="delete_multiple" query="documentkey=4851bed93b7ccf5875e10964c3e45a23"/></record_update>]]></payload>
+<payload_hash>-1507654827</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-783f7a4e2b4be61001bff246f291bfe8">866edf643b258b1075e10964c3e45a67</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>8a6edf643b258b1075e10964c3e45a68</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fa7d0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Lead Summary with CPQ</target_name>
+<type>OneExtend Capability</type>
+<update_domain>global</update_domain>
+<update_guid>119cb25d0b7003983ef3ee0b37e2cbb4</update_guid>
+<update_guid_history>119cb25d0b7003983ef3ee0b37e2cbb4:-1507654827,bc82f251abbccf58eb6003c6e21c5282:-1507654827,d5627a11c3bccf585c642445ac206476:32588113,cc51bed92a7ccf5840f8cd4749bf8bd7:1986492146</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_gen_ai_strategy_mapping_8051bed93b7ccf5875e10964c3e45aee</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_gen_ai_strategy_mapping"><sys_gen_ai_strategy_mapping action="INSERT_OR_UPDATE"><active>true</active><feature display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45adb</feature><strategy>CAPABILITY_EXECUTION</strategy><sys_class_name>sys_gen_ai_strategy_mapping</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:29</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>8051bed93b7ccf5875e10964c3e45aee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CAPABILITY_EXECUTION</sys_name><sys_overrides/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_gen_ai_strategy_mapping_8051bed93b7ccf5875e10964c3e45aee</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:06:29</sys_updated_on></sys_gen_ai_strategy_mapping></record_update>]]></payload>
+<payload_hash>-1917882345</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>026ed7a43b258b1075e10964c3e45ac8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d2008d0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>CAPABILITY_EXECUTION</target_name>
+<type>Generative AI Strategy Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>299cf25d90700398924f465554fa4cb5</update_guid>
+<update_guid_history>299cf25d90700398924f465554fa4cb5:-1917882345,4851bed9237ccf58175c1f64593e56f1:-1917882345</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_de3a3add3b30039875e10964c3e45a91</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>glide_record</data_type><default_value/><definition/><description/><group/><hidden>false</hidden><info/><label>Lead</label><mandatory>false</mandatory><name>lead</name><order/><schema>{"tableName":"sn_lead_mgmt_core_lead","sysId":""}</schema><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:45:25</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>de3a3add3b30039875e10964c3e45a91</sys_id><sys_mod_count>0</sys_mod_count><sys_name>lead</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_de3a3add3b30039875e10964c3e45a91</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:45:25</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=de3a3add3b30039875e10964c3e45a91"/></record_update>]]></payload>
+<payload_hash>1057249701</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>026ed7a43b258b1075e10964c3e45acd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1ffb30000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>lead</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>e99cf25d8e700398f1218d5c4220a67a</update_guid>
+<update_guid_history>e99cf25d8e700398f1218d5c4220a67a:1057249701,da3a3add383003983a47b133764a7394:1057249701</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_b5513ed1ebfcc7948deef07fbad0cd25</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(currentInputs, context) {
+ return new global.OneExtendEvaluationServiceUtil().getPredictedResponse(currentInputs); 
+})(currentInputs, context);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template/&gt;&lt;attribute_value_type&gt;script&lt;/attribute_value_type&gt;&lt;from_resource_mapping/&gt;&lt;resource_attribute_name display_value="generated_response"&gt;290196427f0202105bc49fbefc866554&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="Correctness Metric"&gt;39513ed1ebfcc7948deef07fbad0cd20&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:36&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;b5513ed1ebfcc7948deef07fbad0cd25&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_b5513ed1ebfcc7948deef07fbad0cd25&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:36&lt;/sys_updated_on&gt;&lt;truncate&gt;false&lt;/truncate&gt;&lt;type&gt;input&lt;/type&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1558619290</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>026ed7a43b258b1075e10964c3e45ad2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d202cb0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>3d9cf25ddc7003988a58ee901ba2bdf1</update_guid>
+<update_guid_history>3d9cf25ddc7003988a58ee901ba2bdf1:1558619290,39513ed118fcc794a7e65ffcf3d67027:1558619290</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_param_value_ad51fad1ebfcc7948deef07fbad0cdf4</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_resource_param_value"><sys_one_extend_resource_param_value action="INSERT_OR_UPDATE"><resource_mapping display_value="Correctness Metric with Golden Response">2151fad1ebfcc7948deef07fbad0cdc9</resource_mapping><resource_param_name>configId</resource_param_name><resource_param_value>be27f08a7f4702100a03b6257d86655c</resource_param_value><sys_class_name>sys_one_extend_resource_param_value</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2026-05-11 06:06:35</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>ad51fad1ebfcc7948deef07fbad0cdf4</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_resource_param_value_ad51fad1ebfcc7948deef07fbad0cdf4</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-05-11 06:06:35</sys_updated_on></sys_one_extend_resource_param_value></record_update>]]></payload>
+<payload_hash>-892825799</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:09</sys_created_on>
+<sys_id>026ed7a43b258b1075e10964c3e45ad7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d201ef0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:09</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Param Value</type>
+<update_domain>global</update_domain>
+<update_guid>759cf25d68700398309dae39b11ae2e4</update_guid>
+<update_guid_history>759cf25d68700398309dae39b11ae2e4:-892825799,6d51fad167fcc794377657d1ba338df7:-892825799</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_2451fed93b7ccf5875e10964c3e45aaa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Status</description><group/><hidden>false</hidden><info/><label>status</label><mandatory>false</mandatory><name>status</name><order/><schema>{}</schema><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:30</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>2451fed93b7ccf5875e10964c3e45aaa</sys_id><sys_mod_count>1</sys_mod_count><sys_name>status</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_2451fed93b7ccf5875e10964c3e45aaa</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:11:40</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=2451fed93b7ccf5875e10964c3e45aaa"/></record_update>]]></payload>
+<payload_hash>-1638010280</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>066ed7a43b258b1075e10964c3e45ac9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1febc0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>status</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>e19cb25d427003985529e7a8a1df9dfc</update_guid>
+<update_guid_history>e19cb25d427003985529e7a8a1df9dfc:-1638010280,44827251e1bccf58adf9cb6f1ec3473a:-1638010280,2851fed90a7ccf58b94da6d0d292e5ac:1765164307</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_eval_strategy_f451321d3b7ccf5875e10964c3e45a3d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_eval_strategy"><sys_one_extend_eval_strategy action="INSERT_OR_UPDATE"><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><default>true</default><name>Default</name><skill_config_id>a451fed93b7ccf5875e10964c3e45aaf</skill_config_id><sys_class_name>sys_one_extend_eval_strategy</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:32</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>f451321d3b7ccf5875e10964c3e45a3d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default</sys_name><sys_overrides/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_eval_strategy_f451321d3b7ccf5875e10964c3e45a3d</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:06:32</sys_updated_on></sys_one_extend_eval_strategy></record_update>]]></payload>
+<payload_hash>-1516987480</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>066ed7a43b258b1075e10964c3e45ace</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d204020000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Default</target_name>
+<type>OneExtend Eval Strategy</type>
+<update_domain>global</update_domain>
+<update_guid>7d9c365def7003981f3f1aba506ef21e</update_guid>
+<update_guid_history>7d9c365def7003981f3f1aba506ef21e:-1516987480,f851321d397ccf58b2c939717a248940:-1516987480</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_f9513ed1ebfcc7948deef07fbad0cd62</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(currentInputs, context) {
+ return new global.OneExtendEvaluationServiceUtil().getProcessedResponse(currentInputs); 
+})(currentInputs, context);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template/&gt;&lt;attribute_value_type&gt;script&lt;/attribute_value_type&gt;&lt;from_resource_mapping/&gt;&lt;resource_attribute_name display_value="processed_response"&gt;74a9ca6c7f4f02100a03b6257d866522&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="Faithfulness Metric"&gt;39513ed1ebfcc7948deef07fbad0cd48&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:37&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;f9513ed1ebfcc7948deef07fbad0cd62&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_f9513ed1ebfcc7948deef07fbad0cd62&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:37&lt;/sys_updated_on&gt;&lt;truncate&gt;false&lt;/truncate&gt;&lt;type&gt;input&lt;/type&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>945007869</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>066ed7a43b258b1075e10964c3e45ad3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d203b30000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>7d9c365d5970039807abce35f7d0a215</update_guid>
+<update_guid_history>7d9c365d5970039807abce35f7d0a215:945007869,31513ed154fcc794955948b79d353c8a:945007869</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sn_diagram_builder_instance_7451321d3b7ccf5875e10964c3e45a1c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_diagram_builder_instance"><sn_diagram_builder_instance action="INSERT_OR_UPDATE"><builder_configuration display_value="Now Assist Skill Kit Diagram Configuration">24fef3e67f8c1210ce7cc46adc8665a9</builder_configuration><diagram_json>{"start":"start","variables":[],"node_arguments":[],"edge_arguments":[],"nodes":[{"name":"Lead Summary with CPQ","node_id":"393a329f7fc012103f41c20e1f866555","key":"3851321d3b7ccf5875e10964c3e45a22","resourceMappingId":"3851321d3b7ccf5875e10964c3e45a22","resourceMapping":{"scope":null,"resourceName":"Lead Summary with CPQ","mappingId":"3851321d3b7ccf5875e10964c3e45a22","metadata":{"diagramInstanceId":"7451321d3b7ccf5875e10964c3e45a1c"},"active":true,"condition":"","conditionScript":"(function(currentInputs, context) {\n    /* @param {Object} currentInputs - Inputs provided for the current step.*/\n    /* @param {Object} context - Execution context, which may include:*/\n    /*\t\t\t\t\t\t   - Previous tool outputs/inputs (e.g., context['ToolName.attributeName'] or context.getValue('ToolName.attributeName')).*/\n    /*\t\t\t\t\t\t   - Additional context information (e.g., context.getAllValues()).*/\n    /* @returns {Boolean} - Return 'true' if the condition is met; otherwise 'false'.*/\n    return true;\n})(currentInputs, context);","parentCapability":"4851bed93b7ccf5875e10964c3e45a23","resourceCapability":"4851bed93b7ccf5875e10964c3e45a23","applicabilityType":"","applicabilityTable":"","applicabilityConditionExpression":"","applicabilityFailedPolicy":"","errorPolicy":null,"errorHandlerScript":null,"dependsOnList":[],"outgoingResourceEdges":[],"incomingResourceEdges":[],"resourceType":"SKILL"}},{"key":"start","name":"Start","node_id":"6ba9765f7fc012103f41c20e1f866518"},{"key":"end","name":"End","node_id":"901af65f7fc012103f41c20e1f866591"}],"edges":[{"edge_id":"242cb6137f0412103f41c20e1f866546","from":"3851321d3b7ccf5875e10964c3e45a22","to":"end","add_button_visible":false},{"edge_id":"242cb6137f0412103f41c20e1f866546","from":"start","to":"3851321d3b7ccf5875e10964c3e45a22"}]}</diagram_json><name>Lead Summary with CPQ</name><read_only>false</read_only><state>draft</state><sys_class_name>sn_diagram_builder_instance</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:31</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>7451321d3b7ccf5875e10964c3e45a1c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Lead Summary with CPQ</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sn_diagram_builder_instance_7451321d3b7ccf5875e10964c3e45a1c</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:06:32</sys_updated_on></sn_diagram_builder_instance></record_update>]]></payload>
+<payload_hash>-1011494086</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>0a6ed7a43b258b1075e10964c3e45ac5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d202610000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Lead Summary with CPQ</target_name>
+<type>Diagram Instances</type>
+<update_domain>global</update_domain>
+<update_guid>7d9cf25d59700398f5e3be89ae9e6ee9</update_guid>
+<update_guid_history>7d9cf25d59700398f5e3be89ae9e6ee9:-1011494086,3451321d817ccf58136d1d3a57cf9c2e:-1011494086,fc51321ded7ccf58672cf3ad73abe81f:-2113582801</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_98543ad93bbccf5875e10964c3e45a96</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>numeric</data_type><default_value/><definition/><description>Created Date</description><group/><hidden>false</hidden><info/><label>Created</label><mandatory>false</mandatory><name>created</name><order/><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:19:36</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>98543ad93bbccf5875e10964c3e45a96</sys_id><sys_mod_count>0</sys_mod_count><sys_name>created</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_98543ad93bbccf5875e10964c3e45a96</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:19:36</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=98543ad93bbccf5875e10964c3e45a96"/></record_update>]]></payload>
+<payload_hash>-1925072832</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>0a6ed7a43b258b1075e10964c3e45aca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1ff110000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>created</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>a59cf25d7e7003982e700a1038c9c443</update_guid>
+<update_guid_history>a59cf25d7e7003982e700a1038c9c443:-1925072832,1854bad9a4bccf58f64bba42554d8d0e:-1925072832</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_2951fad1ebfcc7948deef07fbad0cdf0</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(currentInputs, context) {
+ return new global.OneExtendEvaluationServiceUtil().getSkillContext(currentInputs); 
+})(currentInputs, context);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template/&gt;&lt;attribute_value_type&gt;script&lt;/attribute_value_type&gt;&lt;from_resource_mapping/&gt;&lt;resource_attribute_name display_value="context"&gt;b4f0d77a7f82d21071cab6257d8665f8&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="Correctness Metric with Golden Response"&gt;2151fad1ebfcc7948deef07fbad0cdc9&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:35&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;2951fad1ebfcc7948deef07fbad0cdf0&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_2951fad1ebfcc7948deef07fbad0cdf0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:35&lt;/sys_updated_on&gt;&lt;truncate&gt;false&lt;/truncate&gt;&lt;type&gt;input&lt;/type&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1473287937</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>0a6ed7a43b258b1075e10964c3e45acf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d200cd0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>a99cf25d3870039853fc6f7cfb9773c7</update_guid>
+<update_guid_history>a99cf25d3870039853fc6f7cfb9773c7:1473287937,2951fad150fcc794d823f86e6fa77af2:1473287937</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_mapping_39513ed1ebfcc7948deef07fbad0cd48</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_mapping"&gt;&lt;sys_one_extend_resource_mapping action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_expression/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_failed_policy/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(currentInputs, context) {
+ /* customize condition logic here, return true or false */
+  var featureInput = currentInputs; 
+  if (typeof featureInput === "string") {
+ featureInput = JSON.parse(featureInput);
+    }
+
+    var metrics = featureInput &amp;&amp; featureInput._meta &amp;&amp; featureInput._meta.evaluationDetails &amp;&amp; featureInput._meta.evaluationDetails.metrics;
+
+    return metrics &amp;&amp; metrics.indexOf("63015aeda3920210883c25d1d71e6124") !== -1; //check for capability id of the metric
+})(currentInputs, context);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;depends_on_list&gt;3851321d3b7ccf5875e10964c3e45a22&lt;/depends_on_list&gt;&lt;error_handler_script&gt;&lt;![CDATA[(function handleError() {  
+	// customize condition logic here,  
+	return ;
+})();]]&gt;&lt;/error_handler_script&gt;&lt;error_policy/&gt;&lt;metadata&gt;{}&lt;/metadata&gt;&lt;parent_capability display_value="Lead Summary with CPQ"&gt;4851bed93b7ccf5875e10964c3e45a23&lt;/parent_capability&gt;&lt;resource_capability display_value="Faithfulness Metric"&gt;63015aeda3920210883c25d1d71e6124&lt;/resource_capability&gt;&lt;resource_name&gt;Faithfulness Metric&lt;/resource_name&gt;&lt;sys_class_name&gt;sys_one_extend_resource_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:36&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;39513ed1ebfcc7948deef07fbad0cd48&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Faithfulness Metric&lt;/sys_name&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_mapping_39513ed1ebfcc7948deef07fbad0cd48&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:36&lt;/sys_updated_on&gt;&lt;/sys_one_extend_resource_mapping&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=39513ed1ebfcc7948deef07fbad0cd48"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1326909863</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>0a6ed7a43b258b1075e10964c3e45ad4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d203510000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Faithfulness Metric</target_name>
+<type>OneExtend Resource Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>719c365dd1700398e9d322598efe6b0c</update_guid>
+<update_guid_history>719c365dd1700398e9d322598efe6b0c:1326909863,f1513ed1edfcc79452c31942f2738c57:1326909863</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_agent_access_role_configuration_c151321d3b7ccf5875e10964c3e45a45</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_agent_access_role_configuration"><sys_agent_access_role_configuration action="INSERT_OR_UPDATE"><action>limit_to_roles</action><agent>a451fed93b7ccf5875e10964c3e45aaf</agent><agent_table>sn_nowassist_skill_config</agent_table><allow_all_session_roles>false</allow_all_session_roles><description/><name>Lead Summary with CPQ</name><role_list name="admin">2831a114c611228501d4ea6c309d626d</role_list><sys_class_name>sys_agent_access_role_configuration</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:33</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>c151321d3b7ccf5875e10964c3e45a45</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Lead Summary with CPQ</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_agent_access_role_configuration_c151321d3b7ccf5875e10964c3e45a45</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:06:33</sys_updated_on></sys_agent_access_role_configuration></record_update>]]></payload>
+<payload_hash>-1120884610</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>0e6ed7a43b258b1075e10964c3e45ac6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fe650000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Lead Summary with CPQ</target_name>
+<type>Agent Access Role Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>219cb25d7e700398947b15a7982d8bf5</update_guid>
+<update_guid_history>219cb25d7e700398947b15a7982d8bf5:-1120884610,1951321da47ccf58d1199e63278c2eac:-1120884610</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_a851fed93b7ccf5875e10964c3e45a86</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Response Text</description><group/><hidden>false</hidden><info/><label>response</label><mandatory>false</mandatory><name>response</name><order/><schema>{}</schema><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:30</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>a851fed93b7ccf5875e10964c3e45a86</sys_id><sys_mod_count>1</sys_mod_count><sys_name>response</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_a851fed93b7ccf5875e10964c3e45a86</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:11:40</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=a851fed93b7ccf5875e10964c3e45a86"/></record_update>]]></payload>
+<payload_hash>-1374672587</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>0e6ed7a43b258b1075e10964c3e45acb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1ff610000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>response</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>e99cf25dc17003984395448462fd5771</update_guid>
+<update_guid_history>e99cf25dc17003984395448462fd5771:-1374672587,4c8232517fbccf583b9125a287e7a2db:-1374672587,ac51fed9a17ccf5847105221d8f5f188:-427199824</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_75513ed1ebfcc7948deef07fbad0cd5e</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(currentInputs, context) {
+ return new global.OneExtendEvaluationServiceUtil().getPredictedResponse(currentInputs); 
+})(currentInputs, context);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template/&gt;&lt;attribute_value_type&gt;script&lt;/attribute_value_type&gt;&lt;from_resource_mapping/&gt;&lt;resource_attribute_name display_value="generated_response"&gt;b6f296a1a3d20210883c25d1d71e6170&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="Faithfulness Metric"&gt;39513ed1ebfcc7948deef07fbad0cd48&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:36&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;75513ed1ebfcc7948deef07fbad0cd5e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_75513ed1ebfcc7948deef07fbad0cd5e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:36&lt;/sys_updated_on&gt;&lt;truncate&gt;false&lt;/truncate&gt;&lt;type&gt;input&lt;/type&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1569503830</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>0e6ed7a43b258b1075e10964c3e45ad0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d2036c0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>f99c365d287003988b1df623f926e20e</update_guid>
+<update_guid_history>f99c365d287003988b1df623f926e20e:1569503830,75513ed1a4fcc794bf4360be3acb4760:1569503830</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_param_value_35513ed1ebfcc7948deef07fbad0cd3f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_resource_param_value"><sys_one_extend_resource_param_value action="INSERT_OR_UPDATE"><resource_mapping display_value="Correctness Metric">39513ed1ebfcc7948deef07fbad0cd20</resource_mapping><resource_param_name>enableNativeTranslation</resource_param_name><resource_param_value>false</resource_param_value><sys_class_name>sys_one_extend_resource_param_value</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2026-05-11 06:06:36</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>35513ed1ebfcc7948deef07fbad0cd3f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_resource_param_value_35513ed1ebfcc7948deef07fbad0cd3f</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-05-11 06:06:36</sys_updated_on></sys_one_extend_resource_param_value></record_update>]]></payload>
+<payload_hash>1744808093</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>0e6ed7a43b258b1075e10964c3e45ad5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d203280000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Param Value</type>
+<update_domain>global</update_domain>
+<update_guid>759c365d287003981d6f08725d06d007</update_guid>
+<update_guid_history>759c365d287003981d6f08725d06d007:1744808093,31513ed1dcfcc79454f2e5b266ff9641:1744808093</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_generative_ai_config_9c51fed93b7ccf5875e10964c3e45a1a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_generative_ai_config"><sys_generative_ai_config action="INSERT_OR_UPDATE"><active>false</active><additional_configurations>{"skill_config_id":"a451fed93b7ccf5875e10964c3e45aaf"}</additional_configurations><ai_suggested>false</ai_suggested><definition>1451bed93b7ccf5875e10964c3e45af4</definition><definition_table>sys_one_extend_capability_definition</definition_table><documentation/><max_tokens>500</max_tokens><min_word_count>-1</min_word_count><model>llm_generic_small</model><name>AI-generated prompt</name><parent/><prompt>Generate a comprehensive lead summary in a structured format similar to a business overview.
+
+Structure the summary as follows:
+
+**Overview:**
+- Lead number:   {{lead.number}}  
+- Lead creation date:   {{lead.sys_created_on}} 
+- Lead status:  {{lead.state}} , Lead score: {{lead.lead_score}} 
+- Company: {{lead.company}}  , Contact:  {{lead.first_name}}  {{lead.last_name}}  , Title:  {{lead.title}} 
+- Lead source: [lead_source]
+- Industry: [industry], Annual revenue: [annual_revenue]
+- Assigned to: [assigned_to]
+
+**Opportunity Information:**
+- Total opportunity value:  {{lead.short_description}} 
+- Expected close date: [expected_close_date]
+- Probability: [probability]
+- Related opportunity:  {{source_opportunity}} 
+
+**Related Quotes (if available):**
+For each related quote, show:
+- Quote number, status, total amount
+- Products/services quoted
+- Quote creation date and approval status
+
+**Recent Activities:**
+- Last contact date and method
+- Key interactions in last 30 days
+- Number of activities: calls, emails, meetings
+
+**Products/Solutions of Interest:**
+- List products or services the lead is interested in
+- Any specific requirements or preferences mentioned
+
+**Next Steps and Recommendations:**
+- Recommended immediate actions
+- Potential obstacles or risks
+- Suggested follow-up timeline
+
+Format this as clear, scannable sections with bullet points. Include "Show more" expandable sections if the summary is long.
+
+End with: "Check AI-generated content for accuracy."
+</prompt><prompt_template_role>user</prompt_template_role><provider_company/><request_tokens>32018</request_tokens><show_in_prompt_library>false</show_in_prompt_library><state>draft</state><structured_output_enabled>false</structured_output_enabled><structured_output_schema/><sys_class_name>sys_generative_ai_config</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:30</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>9c51fed93b7ccf5875e10964c3e45a1a</sys_id><sys_mod_count>4</sys_mod_count><sys_name>1451bed93b7ccf5875e10964c3e45af4</sys_name><sys_overrides/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_generative_ai_config_9c51fed93b7ccf5875e10964c3e45a1a</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:49:57</sys_updated_on><temperature>0.2</temperature><thinking_tokens>0</thinking_tokens><version>1</version></sys_generative_ai_config></record_update>]]></payload>
+<payload_hash>-688884192</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>426ed7a43b258b1075e10964c3e45ac7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d200370000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>1451bed93b7ccf5875e10964c3e45af4</target_name>
+<type>Generative AI Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>a19cf25d2c700398cc26bc8ff416d8ad</update_guid>
+<update_guid_history>a19cf25d2c700398cc26bc8ff416d8ad:-688884192,3c4bf2153b700398bef3041c50473d3c:-688884192,0b77f69d5ffccf58e8016e7cf52cd05a:-1015176477,57d272d1b6bccf58ceb4804a7795bc41:1421645167,65627a1133bccf5872b733d32e0e91f9:809420056,1c51fed9ff7ccf5833563a11bfc52b4d:-1454924818</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_bda9761d3b30039875e10964c3e45a1b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Opportunity Number</description><group/><hidden>false</hidden><info/><label>Source Opportunity</label><mandatory>false</mandatory><name>source_opportunity</name><order/><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:42:55</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>bda9761d3b30039875e10964c3e45a1b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>source_opportunity</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_bda9761d3b30039875e10964c3e45a1b</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:42:55</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=bda9761d3b30039875e10964c3e45a1b"/></record_update>]]></payload>
+<payload_hash>-1283999158</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>426ed7a43b258b1075e10964c3e45acc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1ff740000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>source_opportunity</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>ed9cf25d3f700398f19b56c8a3fbc473</update_guid>
+<update_guid_history>ed9cf25d3f700398f19b56c8a3fbc473:-1283999158,75a97a1d05300398877415c12dbd71d6:-1283999158</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_7d513ed1ebfcc7948deef07fbad0cd59</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(currentInputs, context) {
+ return new global.OneExtendEvaluationServiceUtil().getGroundedPrompt(currentInputs); 
+})(currentInputs, context);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template/&gt;&lt;attribute_value_type&gt;script&lt;/attribute_value_type&gt;&lt;from_resource_mapping/&gt;&lt;resource_attribute_name display_value="grounded_prompt"&gt;a4e296a1a3d20210883c25d1d71e616b&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="Faithfulness Metric"&gt;39513ed1ebfcc7948deef07fbad0cd48&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:36&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;7d513ed1ebfcc7948deef07fbad0cd59&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_7d513ed1ebfcc7948deef07fbad0cd59&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:36&lt;/sys_updated_on&gt;&lt;truncate&gt;false&lt;/truncate&gt;&lt;type&gt;input&lt;/type&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>370784042</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>426ed7a43b258b1075e10964c3e45ad1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d203850000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>719c365dc470039886acd7670b121a11</update_guid>
+<update_guid_history>719c365dc470039886acd7670b121a11:370784042,fd513ed11efcc794df35d4ecacccad5b:370784042</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_param_value_3d513ed1ebfcc7948deef07fbad0cd90</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_resource_param_value"><sys_one_extend_resource_param_value action="INSERT_OR_UPDATE"><resource_mapping display_value="Faithfulness Metric">39513ed1ebfcc7948deef07fbad0cd48</resource_mapping><resource_param_name>configId</resource_param_name><resource_param_value>aa55d2e5a3d20210883c25d1d71e6102</resource_param_value><sys_class_name>sys_one_extend_resource_param_value</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2026-05-11 06:06:37</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>3d513ed1ebfcc7948deef07fbad0cd90</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_resource_param_value_3d513ed1ebfcc7948deef07fbad0cd90</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-05-11 06:06:37</sys_updated_on></sys_one_extend_resource_param_value></record_update>]]></payload>
+<payload_hash>185663596</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>426ed7a43b258b1075e10964c3e45ad6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d203db0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Param Value</type>
+<update_domain>global</update_domain>
+<update_guid>f19c365dea70039886afb7b588310f1a</update_guid>
+<update_guid_history>f19c365dea70039886afb7b588310f1a:185663596,39513ed164fcc79445b43785a8af8592:185663596</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_capability_definition_1451bed93b7ccf5875e10964c3e45af4</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_capability_definition"&gt;&lt;sys_one_extend_capability_definition action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;api&gt;936e514a53b3b110f028ddeeff7b128c&lt;/api&gt;&lt;api_type&gt;sys_hub_flow&lt;/api_type&gt;&lt;capability display_value="Lead Summary with CPQ"&gt;4851bed93b7ccf5875e10964c3e45a23&lt;/capability&gt;&lt;category display_value="Other"&gt;04c489f3532121106b38ddeeff7b1215&lt;/category&gt;&lt;connection/&gt;&lt;description/&gt;&lt;filter_properties&gt;{"provider":"Now LLM GenericNow LLM Generic"}&lt;/filter_properties&gt;&lt;metadata/&gt;&lt;name&gt;Lead Summary with CPQ (Now LLM Service - Now LLM Generic)&lt;/name&gt;&lt;order&gt;0&lt;/order&gt;&lt;postprocessor&gt;&lt;![CDATA[(function(outputs) {     	/* write code here to transform definition output to capability output.*/     	     	outputs = JSON.parse(outputs);     	     	return outputs;     })(outputs);]]&gt;&lt;/postprocessor&gt;&lt;preprocessor&gt;&lt;![CDATA[(function(inputs) {     	/* write code here to transform capability input to definition input.*/     	     	inputs = JSON.parse(inputs);     	     	return inputs;     })(inputs);]]&gt;&lt;/preprocessor&gt;&lt;sys_class_name&gt;sys_one_extend_capability_definition&lt;/sys_class_name&gt;&lt;sys_created_by&gt;sisridevi&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:29&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;1451bed93b7ccf5875e10964c3e45af4&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Lead Summary with CPQ (Now LLM Service - Now LLM Generic)&lt;/sys_name&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_capability_definition_1451bed93b7ccf5875e10964c3e45af4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;sisridevi&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:11:13&lt;/sys_updated_on&gt;&lt;truncate_strategy display_value="Default Truncation Strategy"&gt;2b99e1137fb20210f465c3b76d86650d&lt;/truncate_strategy&gt;&lt;/sys_one_extend_capability_definition&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=1451bed93b7ccf5875e10964c3e45af4"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1343862905</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>466ed7a43b258b1075e10964c3e45ac8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d2001e0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Lead Summary with CPQ (Now LLM Service - Now LLM Generic)</target_name>
+<type>OneExtend Capability Definition</type>
+<update_domain>global</update_domain>
+<update_guid>659cf25de9700398f304fd1b4f2c9f85</update_guid>
+<update_guid_history>659cf25de9700398f304fd1b4f2c9f85:1343862905,65627a1126bccf58ac38c550b40554f1:1343862905,9851fed9f57ccf58a2285eddc39ba003:1773814572</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_e864fed93bbccf5875e10964c3e45ab8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>numeric</data_type><default_value/><definition/><description>Created Date</description><group/><hidden>false</hidden><info/><label>Created</label><mandatory>false</mandatory><name>created</name><order/><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:19:53</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>e864fed93bbccf5875e10964c3e45ab8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>created</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_e864fed93bbccf5875e10964c3e45ab8</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:19:53</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=e864fed93bbccf5875e10964c3e45ab8"/></record_update>]]></payload>
+<payload_hash>-1925072832</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>466ed7a43b258b1075e10964c3e45acd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1ffc50000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>created</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>ed9cf25d00700398196726b86ac7977c</update_guid>
+<update_guid_history>ed9cf25d00700398196726b86ac7977c:-1925072832,e464fed9d6bccf58eb456bd8f1978fbb:-1925072832</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_b5513ed1ebfcc7948deef07fbad0cd8c</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(currentInputs, context) {
+ return new global.OneExtendEvaluationServiceUtil().getSkillContext(currentInputs); 
+})(currentInputs, context);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template/&gt;&lt;attribute_value_type&gt;script&lt;/attribute_value_type&gt;&lt;from_resource_mapping/&gt;&lt;resource_attribute_name display_value="context"&gt;7d61dfba7f82d21071cab6257d86653e&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="Faithfulness Metric"&gt;39513ed1ebfcc7948deef07fbad0cd48&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:37&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;b5513ed1ebfcc7948deef07fbad0cd8c&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_b5513ed1ebfcc7948deef07fbad0cd8c&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:37&lt;/sys_updated_on&gt;&lt;truncate&gt;false&lt;/truncate&gt;&lt;type&gt;input&lt;/type&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>396887222</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>466ed7a43b258b1075e10964c3e45ad2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d2039b0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>f59c365d65700398594e6fb66bfd3213</update_guid>
+<update_guid_history>f59c365d65700398594e6fb66bfd3213:396887222,b5513ed17dfcc794e2be40445d67788e:396887222</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_param_value_b1513ed1ebfcc7948deef07fbad0cd3b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_resource_param_value"><sys_one_extend_resource_param_value action="INSERT_OR_UPDATE"><resource_mapping display_value="Correctness Metric">39513ed1ebfcc7948deef07fbad0cd20</resource_mapping><resource_param_name>enableDynamicTranslation</resource_param_name><resource_param_value>false</resource_param_value><sys_class_name>sys_one_extend_resource_param_value</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2026-05-11 06:06:36</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>b1513ed1ebfcc7948deef07fbad0cd3b</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_resource_param_value_b1513ed1ebfcc7948deef07fbad0cd3b</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-05-11 06:06:36</sys_updated_on></sys_one_extend_resource_param_value></record_update>]]></payload>
+<payload_hash>54423077</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:09</sys_created_on>
+<sys_id>466ed7a43b258b1075e10964c3e45ad7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d2033c0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:09</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Param Value</type>
+<update_domain>global</update_domain>
+<update_guid>f59c365d2d7003989d1ea8227132e109</update_guid>
+<update_guid_history>f59c365d2d7003989d1ea8227132e109:54423077,bd513ed1fbfcc794f648d7757015233c:54423077</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_4334fe993bbccf5875e10964c3e45a2b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>numeric</data_type><default_value/><definition/><description>Created Date</description><group/><hidden>false</hidden><info/><label>Created</label><mandatory>false</mandatory><name>created</name><order/><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:19:14</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>4334fe993bbccf5875e10964c3e45a2b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>created</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_4334fe993bbccf5875e10964c3e45a2b</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:19:14</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=4334fe993bbccf5875e10964c3e45a2b"/></record_update>]]></payload>
+<payload_hash>-1925072832</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>4a6ed7a43b258b1075e10964c3e45ac9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fed40000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>created</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>e59cb25d0d7003981411602fc2dcb0fe</update_guid>
+<update_guid_history>e59cb25d0d7003981411602fc2dcb0fe:-1925072832,473472d955bccf580264c8935a34bde6:-1925072832</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_eval_strategy_metric_35513ed1ebfcc7948deef07fbad0cd43</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_eval_strategy_metric"><sys_one_extend_eval_strategy_metric action="INSERT_OR_UPDATE"><active>false</active><definition display_value="Faithfulness Metric (Now LLM)">a5d3dae1a3d20210883c25d1d71e6108</definition><eval_strategy display_value="Default">f451321d3b7ccf5875e10964c3e45a3d</eval_strategy><gen_ai_config display_value="OneExtend Capability Definition: Faithfulness Metric (Now LLM)">aa55d2e5a3d20210883c25d1d71e6102</gen_ai_config><metric_name>Faithfulness Metric</metric_name><sys_class_name>sys_one_extend_eval_strategy_metric</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2026-05-11 06:06:36</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>35513ed1ebfcc7948deef07fbad0cd43</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Faithfulness Metric</sys_name><sys_overrides/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_eval_strategy_metric_35513ed1ebfcc7948deef07fbad0cd43</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-05-11 06:06:36</sys_updated_on></sys_one_extend_eval_strategy_metric></record_update>]]></payload>
+<payload_hash>-1201414289</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>4a6ed7a43b258b1075e10964c3e45ace</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d204200000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Faithfulness Metric</target_name>
+<type>OneExtend Eval Strategy Metric</type>
+<update_domain>global</update_domain>
+<update_guid>fd9c365d7e700398c6243b84f4b29821</update_guid>
+<update_guid_history>fd9c365d7e700398c6243b84f4b29821:-1201414289,75513ed1b9fcc7944f225ff74a861345:-1201414289</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_mapping_2151fad1ebfcc7948deef07fbad0cdc9</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_mapping"&gt;&lt;sys_one_extend_resource_mapping action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_expression/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_failed_policy/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(currentInputs, context) {
+ /* customize condition logic here, return true or false */
+  var featureInput = currentInputs; 
+  if (typeof featureInput === "string") {
+ featureInput = JSON.parse(featureInput);
+    }
+
+    var metrics = featureInput &amp;&amp; featureInput._meta &amp;&amp; featureInput._meta.evaluationDetails &amp;&amp; featureInput._meta.evaluationDetails.metrics;
+
+    return metrics &amp;&amp; metrics.indexOf("f5fa89d57f14121071cab6257d8665a6") !== -1; //check for capability id of the metric
+})(currentInputs, context);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;depends_on_list&gt;3851321d3b7ccf5875e10964c3e45a22&lt;/depends_on_list&gt;&lt;error_handler_script&gt;&lt;![CDATA[(function handleError() {  
+	// customize condition logic here,  
+	return ;
+})();]]&gt;&lt;/error_handler_script&gt;&lt;error_policy/&gt;&lt;metadata&gt;{}&lt;/metadata&gt;&lt;parent_capability display_value="Lead Summary with CPQ"&gt;4851bed93b7ccf5875e10964c3e45a23&lt;/parent_capability&gt;&lt;resource_capability display_value="Correctness Metric with Golden Response"&gt;f5fa89d57f14121071cab6257d8665a6&lt;/resource_capability&gt;&lt;resource_name&gt;Correctness Metric with Golden Response&lt;/resource_name&gt;&lt;sys_class_name&gt;sys_one_extend_resource_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:35&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;2151fad1ebfcc7948deef07fbad0cdc9&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Correctness Metric with Golden Response&lt;/sys_name&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_mapping_2151fad1ebfcc7948deef07fbad0cdc9&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:35&lt;/sys_updated_on&gt;&lt;/sys_one_extend_resource_mapping&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=2151fad1ebfcc7948deef07fbad0cdc9"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>833409902</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>4a6ed7a43b258b1075e10964c3e45ad3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d200a80000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Correctness Metric with Golden Response</target_name>
+<type>OneExtend Resource Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>659cf25d257003989175c0270bb6e2b8</update_guid>
+<update_guid_history>659cf25d257003989175c0270bb6e2b8:833409902,2951fad142fcc7949032555b4f7feecd:833409902</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sn_nowassist_skill_config_status_a051fed93b7ccf5875e10964c3e45ab3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_nowassist_skill_config_status"><sn_nowassist_skill_config_status action="INSERT_OR_UPDATE"><active>false</active><in_mobile_active>false</in_mobile_active><in_mobile_roles/><in_product_active>false</in_product_active><in_product_roles/><skill_config display_value="Lead Summary with CPQ">a451fed93b7ccf5875e10964c3e45aaf</skill_config><sys_class_name>sn_nowassist_skill_config_status</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:30</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>a051fed93b7ccf5875e10964c3e45ab3</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sn_nowassist_skill_config_status_a051fed93b7ccf5875e10964c3e45ab3</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:06:30</sys_updated_on></sn_nowassist_skill_config_status></record_update>]]></payload>
+<payload_hash>714910223</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>4e6ed7a43b258b1075e10964c3e45ac5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fd270000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>Now Assist Skill Config Status</type>
+<update_domain>global</update_domain>
+<update_guid>a59cb25d5d700398af1d4d0c04e54deb</update_guid>
+<update_guid_history>a59cb25d5d700398af1d4d0c04e54deb:714910223,a851fed9097ccf58f24a6a93faf028cf:714910223</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_994afadd3b30039875e10964c3e45abd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>glide_record</data_type><default_value/><definition/><description/><group/><hidden>false</hidden><info/><label>Lead</label><mandatory>false</mandatory><name>lead</name><order/><schema>{"tableName":"sn_lead_mgmt_core_lead","sysId":""}</schema><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:45:36</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>994afadd3b30039875e10964c3e45abd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>lead</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_994afadd3b30039875e10964c3e45abd</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:45:36</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=994afadd3b30039875e10964c3e45abd"/></record_update>]]></payload>
+<payload_hash>1057249701</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>4e6ed7a43b258b1075e10964c3e45aca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1ff280000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>lead</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>a99cf25d8e7003981cd722ba7182cb45</update_guid>
+<update_guid_history>a99cf25d8e7003981cd722ba7182cb45:1057249701,954afadd55300398c57f35d90d7643c0:1057249701</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_2d51fad1ebfcc7948deef07fbad0cddc</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(currentInputs, context) {
+ return new global.OneExtendEvaluationServiceUtil().getGroundedPrompt(currentInputs); 
+})(currentInputs, context);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template/&gt;&lt;attribute_value_type&gt;script&lt;/attribute_value_type&gt;&lt;from_resource_mapping/&gt;&lt;resource_attribute_name display_value="grounded_prompt"&gt;e0db01d97f14121071cab6257d8665a4&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="Correctness Metric with Golden Response"&gt;2151fad1ebfcc7948deef07fbad0cdc9&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:35&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;2d51fad1ebfcc7948deef07fbad0cddc&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_2d51fad1ebfcc7948deef07fbad0cddc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:35&lt;/sys_updated_on&gt;&lt;truncate&gt;false&lt;/truncate&gt;&lt;type&gt;input&lt;/type&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1100124932</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>4e6ed7a43b258b1075e10964c3e45acf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d200e80000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>619cf25de67003983825f4944cba29ca</update_guid>
+<update_guid_history>619cf25de67003983825f4944cba29ca:1100124932,6d51fad171fcc7940967dc32828e12e0:1100124932</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_param_value_0e513ed1ebfcc7948deef07fbad0cdad</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_resource_param_value"><sys_one_extend_resource_param_value action="INSERT_OR_UPDATE"><resource_mapping display_value="Faithfulness Metric">39513ed1ebfcc7948deef07fbad0cd48</resource_mapping><resource_param_name>enableDynamicTranslation</resource_param_name><resource_param_value>false</resource_param_value><sys_class_name>sys_one_extend_resource_param_value</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2026-05-11 06:06:37</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>0e513ed1ebfcc7948deef07fbad0cdad</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_resource_param_value_0e513ed1ebfcc7948deef07fbad0cdad</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-05-11 06:06:37</sys_updated_on></sys_one_extend_resource_param_value></record_update>]]></payload>
+<payload_hash>-365202316</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>4e6ed7a43b258b1075e10964c3e45ad4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d203c80000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Param Value</type>
+<update_domain>global</update_domain>
+<update_guid>719c365d65700398dea8813d86ddac18</update_guid>
+<update_guid_history>719c365d65700398dea8813d86ddac18:-365202316,0a513ed179fcc794b7e89157208f4eaf:-365202316</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sn_nowassist_skill_config_var_set_10fb7a193b70039875e10964c3e45a3b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_nowassist_skill_config_var_set"><sn_nowassist_skill_config_var_set action="INSERT_OR_UPDATE"><config_type display_value="Skill builder Delivery step">7dfdff5893b64210aa5730f164891837</config_type><description/><hide_step>false</hide_step><name>__delivery_step__</name><order>100</order><parent/><screen_id/><screen_table>sys_ux_macroponent</screen_table><skill_config display_value="Lead Summary with CPQ">a451fed93b7ccf5875e10964c3e45aaf</skill_config><step_completed>false</step_completed><sys_class_name>sn_nowassist_skill_config_var_set</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:52:55</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>10fb7a193b70039875e10964c3e45a3b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>__delivery_step__</sys_name><sys_overrides/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sn_nowassist_skill_config_var_set_10fb7a193b70039875e10964c3e45a3b</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:52:55</sys_updated_on><title/><vars/></sn_nowassist_skill_config_var_set><sys_translated_text action="delete_multiple" query="documentkey=10fb7a193b70039875e10964c3e45a3b"/><sys_variable_value action="delete_multiple" query="document_key=10fb7a193b70039875e10964c3e45a3b"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sn_nowassist_skill_config_var_set</document><document_key>10fb7a193b70039875e10964c3e45a3b</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:52:55</sys_created_on><sys_id>1cfb7a193b70039875e10964c3e45a3d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:52:55</sys_updated_on><value>0</value><variable display_value="Enable UI Action">f09e3f9893b64210aa5730f16489189f</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sn_nowassist_skill_config_var_set</document><document_key>10fb7a193b70039875e10964c3e45a3b</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:52:55</sys_created_on><sys_id>50fbba193b70039875e10964c3e45ac1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:52:55</sys_updated_on><value/><variable display_value="Associated Chat Experiences">27b274b97fde9610076726d6ac866550</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sn_nowassist_skill_config_var_set</document><document_key>10fb7a193b70039875e10964c3e45a3b</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:52:55</sys_created_on><sys_id>50fbba193b70039875e10964c3e45ac2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:52:55</sys_updated_on><value>0</value><variable display_value="Enable conversational experience">14a8e8397f9e9610076726d6ac866591</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sn_nowassist_skill_config_var_set</document><document_key>10fb7a193b70039875e10964c3e45a3b</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:52:55</sys_created_on><sys_id>50fbba193b70039875e10964c3e45ac3</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:52:55</sys_updated_on><value>0</value><variable display_value="Enable In Product">24c14b967fe85210e98d0b583d8665dd</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sn_nowassist_skill_config_var_set</document><document_key>10fb7a193b70039875e10964c3e45a3b</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:52:55</sys_created_on><sys_id>58fbba193b70039875e10964c3e45ac0</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:52:55</sys_updated_on><value>1</value><variable display_value="Enable UI Builder">e3f313ddff6522103a2bffffffffff48</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sn_nowassist_skill_config_var_set</document><document_key>10fb7a193b70039875e10964c3e45a3b</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:52:55</sys_created_on><sys_id>58fbba193b70039875e10964c3e45ac1</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:52:55</sys_updated_on><value/><variable display_value="UI Action Id">4fee37d893b64210aa5730f164891896</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sn_nowassist_skill_config_var_set</document><document_key>10fb7a193b70039875e10964c3e45a3b</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:52:55</sys_created_on><sys_id>58fbba193b70039875e10964c3e45ac2</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:52:55</sys_updated_on><value>0</value><variable display_value="Enable NAP">ab5ef79893b64210aa5730f16489185a</variable></sys_variable_value></record_update>]]></payload>
+<payload_hash>-311725452</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>826ed7a43b258b1075e10964c3e45ac6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fd090000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>__delivery_step__</target_name>
+<type>Now Assist Skill Config Var Set</type>
+<update_domain>global</update_domain>
+<update_guid>ad9cb25da870039851a0130b45d642e8</update_guid>
+<update_guid_history>ad9cb25da870039851a0130b45d642e8:-311725452,18fbba199e700398d9c4579d357acac8:-311725452</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_a051fed93b7ccf5875e10964c3e45a82</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Provider name</description><group/><hidden>false</hidden><info/><label>provider</label><mandatory>false</mandatory><name>provider</name><order/><schema>{}</schema><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:30</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>a051fed93b7ccf5875e10964c3e45a82</sys_id><sys_mod_count>1</sys_mod_count><sys_name>provider</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_a051fed93b7ccf5875e10964c3e45a82</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:11:40</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=a051fed93b7ccf5875e10964c3e45a82"/></record_update>]]></payload>
+<payload_hash>-1277465417</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>826ed7a43b258b1075e10964c3e45acb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1ff3c0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>provider</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>ad9cf25d537003983b335700d1669d47</update_guid>
+<update_guid_history>ad9cf25d537003983b335700d1669d47:-1277465417,c082fe117abccf5809832e45b7b5f5a9:-1277465417,a451fed9417ccf58dfa169e3cb49be84:-1737591630</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_2d51fad1ebfcc7948deef07fbad0cde7</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(currentInputs, context) {
+ return new global.OneExtendEvaluationServiceUtil().getProcessedResponse(currentInputs); 
+})(currentInputs, context);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template/&gt;&lt;attribute_value_type&gt;script&lt;/attribute_value_type&gt;&lt;from_resource_mapping/&gt;&lt;resource_attribute_name display_value="processed_response"&gt;0dfb85d97f14121071cab6257d8665de&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="Correctness Metric with Golden Response"&gt;2151fad1ebfcc7948deef07fbad0cdc9&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:35&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;2d51fad1ebfcc7948deef07fbad0cde7&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_2d51fad1ebfcc7948deef07fbad0cde7&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:35&lt;/sys_updated_on&gt;&lt;truncate&gt;false&lt;/truncate&gt;&lt;type&gt;input&lt;/type&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1478616671</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>826ed7a43b258b1075e10964c3e45ad0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d201040000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>f59cf25d4870039890ed40e3993f40cc</update_guid>
+<update_guid_history>f59cf25d4870039890ed40e3993f40cc:-1478616671,2d51fad1bbfcc7942e440df51871d0e9:-1478616671</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_param_value_2951fad1ebfcc7948deef07fbad0cdfe</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_resource_param_value"><sys_one_extend_resource_param_value action="INSERT_OR_UPDATE"><resource_mapping display_value="Correctness Metric with Golden Response">2151fad1ebfcc7948deef07fbad0cdc9</resource_mapping><resource_param_name>enableNativeTranslation</resource_param_name><resource_param_value>false</resource_param_value><sys_class_name>sys_one_extend_resource_param_value</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2026-05-11 06:06:36</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>2951fad1ebfcc7948deef07fbad0cdfe</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_resource_param_value_2951fad1ebfcc7948deef07fbad0cdfe</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-05-11 06:06:36</sys_updated_on></sys_one_extend_resource_param_value></record_update>]]></payload>
+<payload_hash>-108869719</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>826ed7a43b258b1075e10964c3e45ad5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d201500000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Param Value</type>
+<update_domain>global</update_domain>
+<update_guid>319cf25d2a70039858536713678315e0</update_guid>
+<update_guid_history>319cf25d2a70039858536713678315e0:-108869719,a1513ed1e5fcc794dd1f116b43287419:-108869719</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_generative_ai_prompt_config_1451fed93b7ccf5875e10964c3e45a45</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_generative_ai_prompt_config"><sys_generative_ai_prompt_config action="INSERT_OR_UPDATE"><ai_config display_value="OneExtend Capability Definition: Lead Summary with CPQ (Now LLM Service - Now LLM Generic)">9c51fed93b7ccf5875e10964c3e45a1a</ai_config><definition display_value="Lead Summary with CPQ (Now LLM Service - Now LLM Generic)">1451bed93b7ccf5875e10964c3e45af4</definition><filter_properties/><filter_type>default</filter_type><is_default>true</is_default><order>0</order><sys_class_name>sys_generative_ai_prompt_config</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:30</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>1451fed93b7ccf5875e10964c3e45a45</sys_id><sys_mod_count>0</sys_mod_count><sys_name>9c51fed93b7ccf5875e10964c3e45a1a</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_generative_ai_prompt_config_1451fed93b7ccf5875e10964c3e45a45</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:06:30</sys_updated_on></sys_generative_ai_prompt_config></record_update>]]></payload>
+<payload_hash>1688814102</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>866ed7a43b258b1075e10964c3e45ac7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d200550000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>9c51fed93b7ccf5875e10964c3e45a1a</target_name>
+<type>Generative AI Prompt Config</type>
+<update_domain>global</update_domain>
+<update_guid>ad9cf25dbc7003988e56c9cdfcc638af</update_guid>
+<update_guid_history>ad9cf25dbc7003988e56c9cdfcc638af:1688814102,dc51fed96a7ccf5899117f18b65ffd49:1688814102</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_ce4476d93bbccf5875e10964c3e45ac9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>numeric</data_type><default_value/><definition/><description>Created Date</description><group/><hidden>false</hidden><info/><label>Created</label><mandatory>false</mandatory><name>created</name><order/><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:19:27</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>ce4476d93bbccf5875e10964c3e45ac9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>created</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_ce4476d93bbccf5875e10964c3e45ac9</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:19:27</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=ce4476d93bbccf5875e10964c3e45ac9"/></record_update>]]></payload>
+<payload_hash>-1925072832</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>866ed7a43b258b1075e10964c3e45acc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1ff890000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>created</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>e19cf25d897003981c478ef6b0f6a276</update_guid>
+<update_guid_history>e19cf25d897003981c478ef6b0f6a276:-1925072832,ca4476d9febccf5888dd3863bad8efcc:-1925072832</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_a151fad1ebfcc7948deef07fbad0cdec</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(currentInputs, context) {
+    /* @param {Object} currentInputs - Inputs provided for the current step.*/
+    /* @param {Object} context - Execution context, which may include:*/
+    /*						   - Previous tool outputs/inputs (e.g., context['ToolName.attributeName'] or context.getValue('ToolName.attributeName')).*/
+    /*						   - Additional context information (e.g., context.getAllValues()).*/
+    /* @returns {Object} - The computed value for the attribute.*/
+    return '';
+})(currentInputs, context);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template/&gt;&lt;attribute_value_type&gt;script&lt;/attribute_value_type&gt;&lt;from_resource_mapping/&gt;&lt;resource_attribute_name display_value="golden_response"&gt;2d7b81d97f14121071cab6257d86654c&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="Correctness Metric with Golden Response"&gt;2151fad1ebfcc7948deef07fbad0cdc9&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:35&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;a151fad1ebfcc7948deef07fbad0cdec&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_a151fad1ebfcc7948deef07fbad0cdec&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:35&lt;/sys_updated_on&gt;&lt;truncate&gt;false&lt;/truncate&gt;&lt;type&gt;input&lt;/type&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-2058490826</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>866ed7a43b258b1075e10964c3e45ad1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d2011d0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>7d9cf25d717003986f3f68ab69e4c2ce</update_guid>
+<update_guid_history>7d9cf25d717003986f3f68ab69e4c2ce:-2058490826,a151fad1cffcc794b76973483a4b30ee:-2058490826</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_param_value_8e513ed1ebfcc7948deef07fbad0cdb1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_resource_param_value"><sys_one_extend_resource_param_value action="INSERT_OR_UPDATE"><resource_mapping display_value="Faithfulness Metric">39513ed1ebfcc7948deef07fbad0cd48</resource_mapping><resource_param_name>enableNativeTranslation</resource_param_name><resource_param_value>false</resource_param_value><sys_class_name>sys_one_extend_resource_param_value</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2026-05-11 06:06:37</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>8e513ed1ebfcc7948deef07fbad0cdb1</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_resource_param_value_8e513ed1ebfcc7948deef07fbad0cdb1</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-05-11 06:06:37</sys_updated_on></sys_one_extend_resource_param_value></record_update>]]></payload>
+<payload_hash>1731271790</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>866ed7a43b258b1075e10964c3e45ad6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d203ec0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Param Value</type>
+<update_domain>global</update_domain>
+<update_guid>759c365d98700398a271f1f900e9271c</update_guid>
+<update_guid_history>759c365d98700398a271f1f900e9271c:1731271790,8a513ed1b7fcc7948a7d3ba1107f93b3:1731271790</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_0dc632993bfccf5875e10964c3e45a1b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description/><group/><hidden>false</hidden><info/><label>Company</label><mandatory>false</mandatory><name>company</name><order/><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:30:18</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>0dc632993bfccf5875e10964c3e45a1b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>company</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_0dc632993bfccf5875e10964c3e45a1b</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:30:18</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=0dc632993bfccf5875e10964c3e45a1b"/></record_update>]]></payload>
+<payload_hash>-1492518937</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>8a6ed7a43b258b1075e10964c3e45ac8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fe8f0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>company</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>e99cb25db070039810f7f09b16fe38f7</update_guid>
+<update_guid_history>e99cb25db070039810f7f09b16fe38f7:-1492518937,9dc63299bcfccf5871603ca39b443c1f:-1492518937</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_config_5c51bed93b7ccf5875e10964c3e45af8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_config"><sys_one_extend_definition_config action="INSERT_OR_UPDATE"><active>true</active><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><default>true</default><definition display_value="Lead Summary with CPQ (Now LLM Service - Now LLM Generic)">1451bed93b7ccf5875e10964c3e45af4</definition><enable_large_input_support>false</enable_large_input_support><sys_class_name>sys_one_extend_definition_config</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:29</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>5c51bed93b7ccf5875e10964c3e45af8</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_config_5c51bed93b7ccf5875e10964c3e45af8</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:06:29</sys_updated_on></sys_one_extend_definition_config></record_update>]]></payload>
+<payload_hash>65564203</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>8a6ed7a43b258b1075e10964c3e45acd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1ffdc0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Definition Config</type>
+<update_domain>global</update_domain>
+<update_guid>659cf25d99700398836c2b2cb942fe7f</update_guid>
+<update_guid_history>659cf25d99700398836c2b2cb942fe7f:65564203,1851fed95d7ccf589d8742ef8a951f16:65564203,5851bed9f87ccf58a35e5726f50df2fe:-340631404</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_b9513ed1ebfcc7948deef07fbad0cd32</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(currentInputs, context) {
+ return new global.OneExtendEvaluationServiceUtil().getSkillContext(currentInputs); 
+})(currentInputs, context);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template/&gt;&lt;attribute_value_type&gt;script&lt;/attribute_value_type&gt;&lt;from_resource_mapping/&gt;&lt;resource_attribute_name display_value="context"&gt;667113fa7f82d21071cab6257d8665d7&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="Correctness Metric"&gt;39513ed1ebfcc7948deef07fbad0cd20&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:36&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;b9513ed1ebfcc7948deef07fbad0cd32&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_b9513ed1ebfcc7948deef07fbad0cd32&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:36&lt;/sys_updated_on&gt;&lt;truncate&gt;false&lt;/truncate&gt;&lt;type&gt;input&lt;/type&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1936823146</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>8a6ed7a43b258b1075e10964c3e45ad2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d202e50000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>b19cf25d8e700398140ac48c0d78d8f4</update_guid>
+<update_guid_history>b19cf25d8e700398140ac48c0d78d8f4:-1936823146,b9513ed17ffcc7949b74c8f3b4d08c34:-1936823146</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_6051fed93b7ccf5875e10964c3e45af9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description/><local_or_existing>Existing</local_or_existing><name>lead_summary_with_cpq.a451fed93b7ccf5875e10964c3e45aaf</name><operation display_value="execute">execute</operation><script/><security_attribute display_value="UserIsAuthenticated">239bdf0c47d23110ba46ff58936d4330</security_attribute><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:31</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>6051fed93b7ccf5875e10964c3e45af9</sys_id><sys_mod_count>1</sys_mod_count><sys_name>lead_summary_with_cpq.a451fed93b7ccf5875e10964c3e45aaf</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_security_acl_6051fed93b7ccf5875e10964c3e45af9</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:11:12</sys_updated_on><type display_value="gen_ai_skill">0d986410ffdd2210c0e9ffffffffffc9</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1214092815</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:09</sys_created_on>
+<sys_id>8a6ed7a43b258b1075e10964c3e45ad7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fdce0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:09</sys_updated_on>
+<table>lead_summary_with_cpq.a451fed93b7ccf5875e10964c3e45aaf</table>
+<target_name>lead_summary_with_cpq.a451fed93b7ccf5875e10964c3e45aaf</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>e99cb25d27700398635f6ca81aec14ef</update_guid>
+<update_guid_history>e99cb25d27700398635f6ca81aec14ef:1214092815,b851321d1d7ccf58f677eb1dcaf9cd17:1214092815</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_5b3472d93bbccf5875e10964c3e45a83</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>numeric</data_type><default_value/><definition/><description>Created Date</description><group/><hidden>false</hidden><info/><label>Created</label><mandatory>false</mandatory><name>created</name><order/><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:19:16</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>5b3472d93bbccf5875e10964c3e45a83</sys_id><sys_mod_count>0</sys_mod_count><sys_name>created</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_5b3472d93bbccf5875e10964c3e45a83</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:19:16</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=5b3472d93bbccf5875e10964c3e45a83"/></record_update>]]></payload>
+<payload_hash>-1925072832</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>8e6ed7a43b258b1075e10964c3e45ac9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fee70000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>created</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>ad9cf25d4970039897e9a5b0fa4f433e</update_guid>
+<update_guid_history>ad9cf25d4970039897e9a5b0fa4f433e:-1925072832,573472d999bccf587d40c8774aba1c86:-1925072832</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_eval_strategy_metric_a151fad1ebfcc7948deef07fbad0cdb3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_eval_strategy_metric"><sys_one_extend_eval_strategy_metric action="INSERT_OR_UPDATE"><active>false</active><definition display_value="CorrectnessMetric - with golden response">e34cc1d97f14121071cab6257d8665b2</definition><eval_strategy display_value="Default">f451321d3b7ccf5875e10964c3e45a3d</eval_strategy><gen_ai_config display_value="OneExtend Capability Definition: CorrectnessMetric - with golden response">be27f08a7f4702100a03b6257d86655c</gen_ai_config><metric_name>Correctness Metric with Golden Response</metric_name><sys_class_name>sys_one_extend_eval_strategy_metric</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2026-05-11 06:06:35</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>a151fad1ebfcc7948deef07fbad0cdb3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Correctness Metric with Golden Response</sys_name><sys_overrides/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_eval_strategy_metric_a151fad1ebfcc7948deef07fbad0cdb3</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-05-11 06:06:35</sys_updated_on></sys_one_extend_eval_strategy_metric></record_update>]]></payload>
+<payload_hash>-307531781</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>8e6ed7a43b258b1075e10964c3e45ace</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d204390000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Correctness Metric with Golden Response</target_name>
+<type>OneExtend Eval Strategy Metric</type>
+<update_domain>global</update_domain>
+<update_guid>b99c365db47003980cdba96aeba53e24</update_guid>
+<update_guid_history>b99c365db47003980cdba96aeba53e24:-307531781,e551fad13bfcc794662d02cbab0ea7c4:-307531781</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_mapping_3851321d3b7ccf5875e10964c3e45a22</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_mapping"&gt;&lt;sys_one_extend_resource_mapping action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_expression/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_failed_policy/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(currentInputs, context) {
+    /* @param {Object} currentInputs - Inputs provided for the current step.*/
+    /* @param {Object} context - Execution context, which may include:*/
+    /*						   - Previous tool outputs/inputs (e.g., context['ToolName.attributeName'] or context.getValue('ToolName.attributeName')).*/
+    /*						   - Additional context information (e.g., context.getAllValues()).*/
+    /* @returns {Boolean} - Return 'true' if the condition is met; otherwise 'false'.*/
+    return true;
+})(currentInputs, context);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type/&gt;&lt;depends_on_list/&gt;&lt;error_handler_script&gt;&lt;![CDATA[(function handleError() {  
+	// customize condition logic here,  
+	return ;
+})();]]&gt;&lt;/error_handler_script&gt;&lt;error_policy/&gt;&lt;metadata&gt;{"diagramInstanceId":"7451321d3b7ccf5875e10964c3e45a1c"}&lt;/metadata&gt;&lt;parent_capability display_value="Lead Summary with CPQ"&gt;4851bed93b7ccf5875e10964c3e45a23&lt;/parent_capability&gt;&lt;resource_capability display_value="Lead Summary with CPQ"&gt;4851bed93b7ccf5875e10964c3e45a23&lt;/resource_capability&gt;&lt;resource_name&gt;Lead Summary with CPQ&lt;/resource_name&gt;&lt;sys_class_name&gt;sys_one_extend_resource_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;sisridevi&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:31&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;3851321d3b7ccf5875e10964c3e45a22&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Lead Summary with CPQ&lt;/sys_name&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_mapping_3851321d3b7ccf5875e10964c3e45a22&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;sisridevi&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:31&lt;/sys_updated_on&gt;&lt;/sys_one_extend_resource_mapping&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=3851321d3b7ccf5875e10964c3e45a22"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2013414002</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>8e6ed7a43b258b1075e10964c3e45ad3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d202390000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Lead Summary with CPQ</target_name>
+<type>OneExtend Resource Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>fd9cf25d8470039885b3eb3b9a34bde6</update_guid>
+<update_guid_history>fd9cf25d8470039885b3eb3b9a34bde6:2013414002,fc51321dbb7ccf58cc6079cf91f03326:2013414002</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_7044f2d93bbccf5875e10964c3e45a6d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>numeric</data_type><default_value/><definition/><description>Created Date</description><group/><hidden>false</hidden><info/><label>Created</label><mandatory>false</mandatory><name>created</name><order/><schema/><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:19:22</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>7044f2d93bbccf5875e10964c3e45a6d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>created</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_7044f2d93bbccf5875e10964c3e45a6d</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:19:22</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=7044f2d93bbccf5875e10964c3e45a6d"/></record_update>]]></payload>
+<payload_hash>-1925072832</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>c26ed7a43b258b1075e10964c3e45aca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fefc0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>created</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>a19cf25df37003985e404262e84aa441</update_guid>
+<update_guid_history>a19cf25df37003985e404262e84aa441:-1925072832,7c44f2d959bccf587d0104ebbb73236f:-1925072832</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_eval_strategy_metric_b5513ed1ebfcc7948deef07fbad0cd1b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_eval_strategy_metric"><sys_one_extend_eval_strategy_metric action="INSERT_OR_UPDATE"><active>false</active><definition display_value="Correctness Metric (Now LLM)">cbf929b27fe242100a03b6257d866548</definition><eval_strategy display_value="Default">f451321d3b7ccf5875e10964c3e45a3d</eval_strategy><gen_ai_config display_value="OneExtend Capability Definition: Correctness Metric (Now LLM)">c834087d7f5202100a03b6257d866503</gen_ai_config><metric_name>Correctness Metric</metric_name><sys_class_name>sys_one_extend_eval_strategy_metric</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2026-05-11 06:06:36</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>b5513ed1ebfcc7948deef07fbad0cd1b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Correctness Metric</sys_name><sys_overrides/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_eval_strategy_metric_b5513ed1ebfcc7948deef07fbad0cd1b</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-05-11 06:06:36</sys_updated_on></sys_one_extend_eval_strategy_metric></record_update>]]></payload>
+<payload_hash>-1427666186</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>c26ed7a43b258b1075e10964c3e45acf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d204560000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Correctness Metric</target_name>
+<type>OneExtend Eval Strategy Metric</type>
+<update_domain>global</update_domain>
+<update_guid>359c365d4070039860560bc514537227</update_guid>
+<update_guid_history>359c365d4070039860560bc514537227:-1427666186,f5513ed1b8fcc7944044c37138fc4f1d:-1427666186</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_mapping_39513ed1ebfcc7948deef07fbad0cd20</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_mapping"&gt;&lt;sys_one_extend_resource_mapping action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applicability_condition/&gt;&lt;applicability_condition_expression/&gt;&lt;applicability_condition_table/&gt;&lt;applicability_failed_policy/&gt;&lt;applicability_script&gt;&lt;![CDATA[(function(currentInputs, context) {
+ /* customize condition logic here, return true or false */
+  var featureInput = currentInputs; 
+  if (typeof featureInput === "string") {
+ featureInput = JSON.parse(featureInput);
+    }
+
+    var metrics = featureInput &amp;&amp; featureInput._meta &amp;&amp; featureInput._meta.evaluationDetails &amp;&amp; featureInput._meta.evaluationDetails.metrics;
+
+    return metrics &amp;&amp; metrics.indexOf("a28f0e067f0202105bc49fbefc8665ec") !== -1; //check for capability id of the metric
+})(currentInputs, context);]]&gt;&lt;/applicability_script&gt;&lt;applicability_type&gt;script&lt;/applicability_type&gt;&lt;depends_on_list&gt;3851321d3b7ccf5875e10964c3e45a22&lt;/depends_on_list&gt;&lt;error_handler_script&gt;&lt;![CDATA[(function handleError() {  
+	// customize condition logic here,  
+	return ;
+})();]]&gt;&lt;/error_handler_script&gt;&lt;error_policy/&gt;&lt;metadata&gt;{}&lt;/metadata&gt;&lt;parent_capability display_value="Lead Summary with CPQ"&gt;4851bed93b7ccf5875e10964c3e45a23&lt;/parent_capability&gt;&lt;resource_capability display_value="Correctness Metric"&gt;a28f0e067f0202105bc49fbefc8665ec&lt;/resource_capability&gt;&lt;resource_name&gt;Correctness Metric&lt;/resource_name&gt;&lt;sys_class_name&gt;sys_one_extend_resource_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:36&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;39513ed1ebfcc7948deef07fbad0cd20&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Correctness Metric&lt;/sys_name&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_mapping_39513ed1ebfcc7948deef07fbad0cd20&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:36&lt;/sys_updated_on&gt;&lt;/sys_one_extend_resource_mapping&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=39513ed1ebfcc7948deef07fbad0cd20"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-118279898</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>c26ed7a43b258b1075e10964c3e45ad4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d202900000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Correctness Metric</target_name>
+<type>OneExtend Resource Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>3d9cf25df87003986c6ae7cafa02fdec</update_guid>
+<update_guid_history>3d9cf25df87003986c6ae7cafa02fdec:-118279898,3d513ed11dfcc7945c2e7daa16f32322:-118279898</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Now Assist Admin Console">7c395aaa53003110453cddeeff7b123c</application>
+<category>customer</category>
+<comments/>
+<name>sn_nowassist_skill_family_a5efaf1c93764210aa5730f16489186d</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sn_nowassist_skill_family"&gt;&lt;sn_nowassist_skill_family action="INSERT_OR_UPDATE"&gt;&lt;category&gt;oob&lt;/category&gt;&lt;description&gt;&lt;![CDATA[&lt;p&gt;Manage all custom skills that are not part of any of the Out-Of-Box ServiceNow workflows and products.&lt;/p&gt;]]&gt;&lt;/description&gt;&lt;image_url/&gt;&lt;name&gt;Other&lt;/name&gt;&lt;order&gt;700&lt;/order&gt;&lt;parent/&gt;&lt;preview_image/&gt;&lt;sub_title&gt;Now Assist skills for all other applications and products&lt;/sub_title&gt;&lt;sys_class_name&gt;sn_nowassist_skill_family&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-06-11 09:27:23&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;a5efaf1c93764210aa5730f16489186d&lt;/sys_id&gt;&lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;&lt;sys_name&gt;Other&lt;/sys_name&gt;&lt;sys_package display_value="Now Assist Admin Console" source="sn_nowassist_admin"&gt;7c395aaa53003110453cddeeff7b123c&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Now Assist Admin Console"&gt;7c395aaa53003110453cddeeff7b123c&lt;/sys_scope&gt;&lt;sys_update_name&gt;sn_nowassist_skill_family_a5efaf1c93764210aa5730f16489186d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-07-01 19:20:08&lt;/sys_updated_on&gt;&lt;type&gt;workflow&lt;/type&gt;&lt;/sn_nowassist_skill_family&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a5efaf1c93764210aa5730f16489186d"/&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1254021739</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>c66ed7a43b258b1075e10964c3e45ac6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fcc20000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Other</target_name>
+<type>Now Assist Skill Family</type>
+<update_domain>global</update_domain>
+<update_guid>559cb25d0d700398236f7e86ca5a9dbe</update_guid>
+<update_guid_history>559cb25d0d700398236f7e86ca5a9dbe:1254021739</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_a53af6dd3b30039875e10964c3e45afa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>glide_record</data_type><default_value/><definition/><description/><group/><hidden>false</hidden><info/><label>Lead</label><mandatory>false</mandatory><name>lead</name><order/><schema>{"tableName":"sn_lead_mgmt_core_lead","sysId":""}</schema><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:45:21</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>a53af6dd3b30039875e10964c3e45afa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>lead</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_a53af6dd3b30039875e10964c3e45afa</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:45:21</sys_updated_on><translate>false</translate><truncate>false</truncate><type>input</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=a53af6dd3b30039875e10964c3e45afa"/></record_update>]]></payload>
+<payload_hash>1057249701</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>c66ed7a43b258b1075e10964c3e45acb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1ff4f0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>lead</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>e59cf25d3c700398f0da49b5c800406f</update_guid>
+<update_guid_history>e59cf25d3c700398f0da49b5c800406f:1057249701,a13af6dd5630039838073c989a4da0fd:1057249701</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_35513ed1ebfcc7948deef07fbad0cd2e</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(currentInputs, context) {
+ return new global.OneExtendEvaluationServiceUtil().getProcessedResponse(currentInputs); 
+})(currentInputs, context);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template/&gt;&lt;attribute_value_type&gt;script&lt;/attribute_value_type&gt;&lt;from_resource_mapping/&gt;&lt;resource_attribute_name display_value="processed_response"&gt;9e4762677f3602100a03b6257d8665cc&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="Correctness Metric"&gt;39513ed1ebfcc7948deef07fbad0cd20&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:36&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;35513ed1ebfcc7948deef07fbad0cd2e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_35513ed1ebfcc7948deef07fbad0cd2e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:36&lt;/sys_updated_on&gt;&lt;truncate&gt;false&lt;/truncate&gt;&lt;type&gt;input&lt;/type&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1928961603</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>c66ed7a43b258b1075e10964c3e45ad0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d202af0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>b59cf25d55700398c26289f090383def</update_guid>
+<update_guid_history>b59cf25d55700398c26289f090383def:-1928961603,35513ed11afcc79427b32272b96fd230:-1928961603</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_param_value_31513ed1ebfcc7948deef07fbad0cd37</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_resource_param_value"><sys_one_extend_resource_param_value action="INSERT_OR_UPDATE"><resource_mapping display_value="Correctness Metric">39513ed1ebfcc7948deef07fbad0cd20</resource_mapping><resource_param_name>configId</resource_param_name><resource_param_value>c834087d7f5202100a03b6257d866503</resource_param_value><sys_class_name>sys_one_extend_resource_param_value</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2026-05-11 06:06:36</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>31513ed1ebfcc7948deef07fbad0cd37</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_resource_param_value_31513ed1ebfcc7948deef07fbad0cd37</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-05-11 06:06:36</sys_updated_on></sys_one_extend_resource_param_value></record_update>]]></payload>
+<payload_hash>-1176948018</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>c66ed7a43b258b1075e10964c3e45ad5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d203130000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Param Value</type>
+<update_domain>global</update_domain>
+<update_guid>f19c365d227003980bb55a4619a6ee05</update_guid>
+<update_guid_history>f19c365d227003980bb55a4619a6ee05:-1176948018,3d513ed153fcc794e9317700b1fdca38:-1176948018</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_gen_ai_feature_mapping_4851bed93b7ccf5875e10964c3e45adb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_gen_ai_feature_mapping"><sys_gen_ai_feature_mapping action="INSERT_OR_UPDATE"><active>true</active><customer_updatable>true</customer_updatable><default_tier>false</default_tier><document>4851bed93b7ccf5875e10964c3e45a23</document><document_table>sys_one_extend_capability</document_table><feature_name>Lead Summary with CPQ</feature_name><licensable>true</licensable><metadata/><skip_on_group_call>false</skip_on_group_call><sys_class_name>sys_gen_ai_feature_mapping</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:29</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>4851bed93b7ccf5875e10964c3e45adb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Lead Summary with CPQ</sys_name><sys_overrides/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_gen_ai_feature_mapping_4851bed93b7ccf5875e10964c3e45adb</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:06:29</sys_updated_on><tier/></sys_gen_ai_feature_mapping><sys_translated_text action="delete_multiple" query="documentkey=4851bed93b7ccf5875e10964c3e45adb"/></record_update>]]></payload>
+<payload_hash>-899895173</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>ca6ed7a43b258b1075e10964c3e45ac7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d200760000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Lead Summary with CPQ</target_name>
+<type>Generative AI Feature Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>ed9cf25db5700398e886a87c144672b2</update_guid>
+<update_guid_history>ed9cf25db5700398e886a87c144672b2:-899895173,4451bed94b7ccf58c452356ee0ab6fdf:-899895173</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_d851fed93b7ccf5875e10964c3e45a5c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Error Message</description><group/><hidden>false</hidden><info/><label>error</label><mandatory>false</mandatory><name>error</name><order/><schema>{}</schema><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:30</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>d851fed93b7ccf5875e10964c3e45a5c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>error</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_d851fed93b7ccf5875e10964c3e45a5c</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:11:40</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=d851fed93b7ccf5875e10964c3e45a5c"/></record_update>]]></payload>
+<payload_hash>969577363</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>ca6ed7a43b258b1075e10964c3e45acc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1ff9f0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>error</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>e59cf25d9f700398ea0be3628026d078</update_guid>
+<update_guid_history>e59cf25d9f700398ea0be3628026d078:969577363,c4823251c6bccf5801f1d2cffc72f2e2:969577363,5451fed9f27ccf588a939a9e2b419562:1289350712</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_a551fad1ebfcc7948deef07fbad0cde3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(currentInputs, context) {
+ return new global.OneExtendEvaluationServiceUtil().getPredictedResponse(currentInputs); 
+})(currentInputs, context);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template/&gt;&lt;attribute_value_type&gt;script&lt;/attribute_value_type&gt;&lt;from_resource_mapping/&gt;&lt;resource_attribute_name display_value="generated_response"&gt;e19b01d97f14121071cab6257d86659e&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="Correctness Metric with Golden Response"&gt;2151fad1ebfcc7948deef07fbad0cdc9&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:35&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;a551fad1ebfcc7948deef07fbad0cde3&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_a551fad1ebfcc7948deef07fbad0cde3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:35&lt;/sys_updated_on&gt;&lt;truncate&gt;false&lt;/truncate&gt;&lt;type&gt;input&lt;/type&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-224196808</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>ca6ed7a43b258b1075e10964c3e45ad1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d201380000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>f19cf25d3070039854de0a2349c0b1d1</update_guid>
+<update_guid_history>f19cf25d3070039854de0a2349c0b1d1:-224196808,a551fad1c4fcc794ae4f1c0c3cfe2be5:-224196808</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_param_value_a551fad1ebfcc7948deef07fbad0cdfa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_resource_param_value"><sys_one_extend_resource_param_value action="INSERT_OR_UPDATE"><resource_mapping display_value="Correctness Metric with Golden Response">2151fad1ebfcc7948deef07fbad0cdc9</resource_mapping><resource_param_name>enableDynamicTranslation</resource_param_name><resource_param_value>false</resource_param_value><sys_class_name>sys_one_extend_resource_param_value</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2026-05-11 06:06:36</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>a551fad1ebfcc7948deef07fbad0cdfa</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_resource_param_value_a551fad1ebfcc7948deef07fbad0cdfa</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2026-05-11 06:06:36</sys_updated_on></sys_one_extend_resource_param_value></record_update>]]></payload>
+<payload_hash>-1575014247</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>ca6ed7a43b258b1075e10964c3e45ad6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d201660000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Param Value</type>
+<update_domain>global</update_domain>
+<update_guid>f19cf25ddc700398925e3f966c6d75e2</update_guid>
+<update_guid_history>f19cf25ddc700398925e3f966c6d75e2:-1575014247,a151fad15afcc79410056fd600fa6bfc:-1575014247</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_definition_attribute_1c51fed93b7ccf5875e10964c3e45a64</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_one_extend_definition_attribute"><sys_one_extend_definition_attribute action="INSERT_OR_UPDATE"><active>true</active><advanced>false</advanced><apply_filter>false</apply_filter><attribute_label/><capability display_value="Lead Summary with CPQ">4851bed93b7ccf5875e10964c3e45a23</capability><choice_list/><contains_large_input>false</contains_large_input><data_type>string</data_type><default_value/><definition/><description>Error Code</description><group/><hidden>false</hidden><info/><label>errorCode</label><mandatory>false</mandatory><name>errorcode</name><order/><schema>{}</schema><sys_class_name>sys_one_extend_definition_attribute</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:06:30</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>1c51fed93b7ccf5875e10964c3e45a64</sys_id><sys_mod_count>1</sys_mod_count><sys_name>errorcode</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_update_name>sys_one_extend_definition_attribute_1c51fed93b7ccf5875e10964c3e45a64</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:11:40</sys_updated_on><translate>false</translate><truncate>false</truncate><type>output</type><user_query>false</user_query></sys_one_extend_definition_attribute><sys_translated_text action="delete_multiple" query="documentkey=1c51fed93b7ccf5875e10964c3e45a64"/></record_update>]]></payload>
+<payload_hash>1867177052</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>ce6ed7a43b258b1075e10964c3e45ac8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fea60000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>errorcode</target_name>
+<type>OneExtend Capability Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>ed9cb25d2b7003980c40c2661dc172f9</update_guid>
+<update_guid_history>ed9cb25d2b7003980c40c2661dc172f9:1867177052,4c8272517fbccf58d813a52115eb4d1a:1867177052,1051fed9187ccf58ae84f20a9e3fa767:-164049023</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_eval_attribute_e051fed93b7ccf5875e10964c3e45a8b</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_eval_attribute"&gt;&lt;sys_one_extend_eval_attribute action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;capability display_value="Lead Summary with CPQ"&gt;4851bed93b7ccf5875e10964c3e45a23&lt;/capability&gt;&lt;capability_attribute display_value="response"&gt;a851fed93b7ccf5875e10964c3e45a86&lt;/capability_attribute&gt;&lt;data_type&gt;string&lt;/data_type&gt;&lt;label&gt;Golden Response&lt;/label&gt;&lt;name&gt;response&lt;/name&gt;&lt;sys_class_name&gt;sys_one_extend_eval_attribute&lt;/sys_class_name&gt;&lt;sys_created_by&gt;sisridevi&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:30&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;e051fed93b7ccf5875e10964c3e45a8b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Golden Response&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_eval_attribute_e051fed93b7ccf5875e10964c3e45a8b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;sisridevi&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:30&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;template_script&gt;&lt;![CDATA[(function getValue(response) {
+   // response would give the response from capability 
+})(response);]]&gt;&lt;/template_script&gt;&lt;/sys_one_extend_eval_attribute&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1497074966</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>ce6ed7a43b258b1075e10964c3e45acd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fff50000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name>Golden Response</target_name>
+<type>OneExtend Eval Attribute</type>
+<update_domain>global</update_domain>
+<update_guid>ad9cf25dc4700398e3fb2b005a8e5081</update_guid>
+<update_guid_history>ad9cf25dc4700398e3fb2b005a8e5081:-1497074966,6c51fed92c7ccf5869cf445e0f2961a7:-1497074966</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_one_extend_resource_attribute_mapping_bd513ed1ebfcc7948deef07fbad0cd29</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_one_extend_resource_attribute_mapping"&gt;&lt;sys_one_extend_resource_attribute_mapping action="INSERT_OR_UPDATE"&gt;&lt;attribute_value_script&gt;&lt;![CDATA[(function execute(currentInputs, context) {
+ return new global.OneExtendEvaluationServiceUtil().getGroundedPrompt(currentInputs); 
+})(currentInputs, context);]]&gt;&lt;/attribute_value_script&gt;&lt;attribute_value_template/&gt;&lt;attribute_value_type&gt;script&lt;/attribute_value_type&gt;&lt;from_resource_mapping/&gt;&lt;resource_attribute_name display_value="grounded_prompt"&gt;2de4d2467f0202105bc49fbefc866578&lt;/resource_attribute_name&gt;&lt;resource_mapping display_value="Correctness Metric"&gt;39513ed1ebfcc7948deef07fbad0cd20&lt;/resource_mapping&gt;&lt;sys_class_name&gt;sys_one_extend_resource_attribute_mapping&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-05-11 06:06:36&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;bd513ed1ebfcc7948deef07fbad0cd29&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="CPQ Integration" source="sn_cpq_intg"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="CPQ Integration"&gt;783f7a4e2b4be61001bff246f291bfe8&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_one_extend_resource_attribute_mapping_bd513ed1ebfcc7948deef07fbad0cd29&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-05-11 06:06:36&lt;/sys_updated_on&gt;&lt;truncate&gt;false&lt;/truncate&gt;&lt;type&gt;input&lt;/type&gt;&lt;/sys_one_extend_resource_attribute_mapping&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2142162115</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:08</sys_created_on>
+<sys_id>ce6ed7a43b258b1075e10964c3e45ad2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d202fc0000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:08</sys_updated_on>
+<table/>
+<target_name/>
+<type>OneExtend Resource Attribute Mapping</type>
+<update_domain>global</update_domain>
+<update_guid>399cf25db570039837d2d0b6367198f6</update_guid>
+<update_guid_history>399cf25db570039837d2d0b6367198f6:2142162115,bd513ed196fcc7940b56d78f7244f72b:2142162115</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_25627a113bbccf5875e10964c3e45ad9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>sisridevi</sys_created_by><sys_created_on>2026-05-11 06:11:13</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>25627a113bbccf5875e10964c3e45ad9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>lead_summary_with_cpq.a451fed93b7ccf5875e10964c3e45aaf.snc_internal</sys_name><sys_package display_value="CPQ Integration" source="sn_cpq_intg">783f7a4e2b4be61001bff246f291bfe8</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="CPQ Integration">783f7a4e2b4be61001bff246f291bfe8</sys_scope><sys_security_acl display_value="lead_summary_with_cpq.a451fed93b7ccf5875e10964c3e45aaf">6051fed93b7ccf5875e10964c3e45af9</sys_security_acl><sys_update_name>sys_security_acl_role_25627a113bbccf5875e10964c3e45ad9</sys_update_name><sys_updated_by>sisridevi</sys_updated_by><sys_updated_on>2026-05-11 06:11:13</sys_updated_on><sys_user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-128764307</payload_hash>
+<remote_update_set display_value="Lead Summary with CPQ-7c395aaa53003110453cddeeff7b123c-135908">8e6edf643b258b1075e10964c3e45a69</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>tusk</sys_created_by>
+<sys_created_on>2026-06-15 08:15:09</sys_created_on>
+<sys_id>ce6ed7a43b258b1075e10964c3e45ad7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19e15d1fe230000001</sys_recorded_at>
+<sys_updated_by>tusk</sys_updated_by>
+<sys_updated_on>2026-06-15 08:15:09</sys_updated_on>
+<table>lead_summary_with_cpq.a451fed93b7ccf5875e10964c3e45aaf</table>
+<target_name>lead_summary_with_cpq.a451fed93b7ccf5875e10964c3e45aaf.snc_internal</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>e59cb25dfa700398115b01ba075044f2</update_guid>
+<update_guid_history>e59cb25dfa700398115b01ba075044f2:-128764307,25627a1138bccf586a47a4b26297b3e7:-128764307</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
